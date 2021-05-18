@@ -22,7 +22,7 @@ This collaboration went super well and prof. Artur Andrzejak was kind enough to 
 <i class="fa fa-graduation-cap"></i> Ph.D in Computing and Information Sciences, 2021
 <br> <span style="color:gray; font-size:.8em;"> Rochester Institute of Technology, USA </span>
 
-<i class="fa fa-graduation-cap"></i> M.Sc in Computer Science, 2018
+<i class="fa fa-graduation-cap"></i> M.Sc in Software Engineering, 2018
 <br> <span style="color:gray; font-size:.8em;"> Rochester Institute of Technology, USA </span>
 
 <i class="fa fa-graduation-cap"></i> B.Sc in Computer Science
