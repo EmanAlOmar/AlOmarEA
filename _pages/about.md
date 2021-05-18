@@ -5,11 +5,11 @@ title: "About"
 
 ## Social Networks
 
-The best way to reach me is through email: diego.costa [at] concordia.ca
+The best way to reach me is through email: eman.alomar [at] mail.rit.edu
   
 But I am also reachable through some social networks such as:
-- Twitter: DiegoEliasCosta 
-- Research Gate: Diego_Costa9
+- Twitter: ECS_Abdullah 
+- Research Gate: 
 
 
 ## Background and Education
