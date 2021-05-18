@@ -9,7 +9,7 @@ The best way to reach me is through email: eman.alomar [at] mail.rit.edu
   
 But I am also reachable through some social networks such as:
 - Twitter: ECS_Abdullah 
-- Research Gate: 
+- Research Gate: Eman Abdullah Alomar
 
 
 ## Background and Education
@@ -19,14 +19,14 @@ During my master's, I worked on analyzing the performance of memory allocators w
 At that time, I got the opportunity to work with Dr. Artur Andrejak on a project related to software aging. 
 This collaboration went super well and prof. Artur Andrzejak was kind enough to invite me to apply for a scholarship at Heidelberg University. 
 
-<i class="fa fa-graduation-cap"></i> Ph.D in Computer Science, 2019
-<br> <span style="color:gray; font-size:.8em;"> Heidelberg University, Germany </span>
+<i class="fa fa-graduation-cap"></i> Ph.D in Computing and Information Sciences, 2021
+<br> <span style="color:gray; font-size:.8em;"> Rochester Institute of Technology, USA </span>
 
-<i class="fa fa-graduation-cap"></i> M.Sc in Computer Science, 2014
-<br> <span style="color:gray; font-size:.8em;"> Federal University of Uberlândia, Brazil </span>
+<i class="fa fa-graduation-cap"></i> M.Sc in Computer Science, 2018
+<br> <span style="color:gray; font-size:.8em;"> Rochester Institute of Technology, USA </span>
 
-<i class="fa fa-graduation-cap"></i> B.Sc in Computer Science, 2011
-<br> <span style="color:gray; font-size:.8em;"> Federal University of Uberlândia, Brazil </span>
+<i class="fa fa-graduation-cap"></i> B.Sc in Computer Science
+<br> <span style="color:gray; font-size:.8em;"> </span>
 
 
 

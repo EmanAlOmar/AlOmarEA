@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "Diego Elias Costa"
-  avatar : "/assets/images/diegoeliascosta.jpeg"
+  avatar : "/assets/images/" # for personal photo
   bio    : "Postdoctoral researcher in Concordia University."
   links:
     #- label: "Website"
