@@ -82,34 +82,20 @@ title: "Publications"
 
 ## 2019
 
-- **Diego Costa**, C. Bezemer, P. Leitner and A. Andrzejak.
-    **What's Wrong With My Benchmark Results? Studying Bad Practices in JMH Benchmarks**, 
-    in *IEEE Transactions on Software Engineering*, 16 pages, Early Access (2019). 
+- **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A.,Kessentini, M.
+    ** On the impact of refactoring on the relationship between quality attributes and design metrics.**, 
+    in *ACM/IEEE International Symposium on Empirical Software Engineering and Measurement*, 12 pages, (ESEM 2019). 
     <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/333825812){:target="_blank"}
-	<i class="fab fa-github" aria-hidden="true"></i> [SpotJMHBugs](https://github.com/DiegoEliasCosta/spotjmhbugs){:target="_blank"}
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](){:target="_blank"}
+	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](){:target="_blank"}
 
-- **Diego Costa**, 
-  **Benchmark-driven Software Performance Optimization**,
-  Ph.D. thesis. 2019
+- **AlOmar, E. A.**,
+  **Can refactoring be self-affirmed? an exploratory study on how developers document their refactoring activities in commit messages.**, in 
+  *IEEE/ACM 3rd International Workshop on Refactoring (IWoR)*, 8 pages, (IWoR 2019).
   <br>
-  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Thesis](http://archiv.ub.uni-heidelberg.de/volltextserver/26919/1/DiegoCosta_thesis.pdf){:target="_blank"}
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](){:target="_blank"}
 
 
-- Juan P. S. Alcocer, Harold C. Jaimes, **Diego Costa**, Alexandre Bergel and Fabian Beck, 
-	**Enhancing Commit Graphs with Visual Runtime Clues.**
-	In VISSOFT'19: *Working Conference on Software Visualization*,
-	5 pages, 28-32, 2019.
-	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/339954158){:target="_blank"}
-	
-- Artur Andrzejak, Kevin Kiefer, **Diego Costa**, and Oliver Wenz. 2019. 
-    **Agile construction of data science DSLs (tool demo).** 
-	In GPCE'19: *ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences*, 27-33, 2019.
-	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/335868045){:target="_blank"}
-	<i class="fab fa-github" aria-hidden="true"></i> [NLDSL](https://einhornstyle.gitlab.io/nldsl/){:target="_blank"}
-    <i class="fa fa-cog" aria-hidden="true"></i> [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=PVS-IfI-Heidelberg-University-Germany.vscode-nldsl-windows){:target="_blank"}
 
 ## 2018
 
@@ -117,8 +103,7 @@ title: "Publications"
 	**How we refactor and how we mine it? A large scale study on refactoring activities in open source systems.**
 	Master thesis. 2018. 
 	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=10945&context=theses){:target="_blank"}
-	<i class="fab fa-github" aria-hidden="true"></i> 
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Thesis](https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=10945&context=theses){:target="_blank"}
 
 	
 
