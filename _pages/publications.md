@@ -83,7 +83,7 @@ title: "Publications"
 ## 2019
 
 - **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A.,Kessentini, M.
-    ** On the impact of refactoring on the relationship between quality attributes and design metrics.**, 
+    **On the impact of refactoring on the relationship between quality attributes and design metrics.**, 
     in *ACM/IEEE International Symposium on Empirical Software Engineering and Measurement*, 12 pages, (ESEM 2019). 
     <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](){:target="_blank"}
