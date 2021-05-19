@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Diego Elias Costa
-email: diego.costa@concordia.ca
+title: Eman Abdullah AlOmar
+email: eman.alomar@mail.rit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   My personal website. 
-twitter_username: DiegoEliasCosta
-github_username: DiegoEliasCosta
+twitter_username: ECS_Abdullah
+github_username: emanalomar
 minimal_mistakes_skin: default
 search: true
 
@@ -34,7 +34,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 analytics:
   provider: "custom"
   google:
-    tracking_id: "G-517Z5QK480"
+    tracking_id: "UA-180124591-1"
     anonymize_ip: false # default
 
 include:
@@ -62,25 +62,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Diego Elias Costa"
+  name   : "Eman Abdullah AlOmar"
   avatar : "/assets/images/" # for personal photo
-  bio    : "Postdoctoral researcher in Concordia University."
+  bio    : "PhD Candidate in Rochester Institute of Technology."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DiegoEliasCosta"
+      url: "https://twitter.com/ECS_Abdullah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DiegoEliasCosta"
+      url: "https://github.com/EmanAlOmar"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=HOWCJPMAAAAJ&hl" 
+      url: "https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en" 
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Diego_Costa9"
+      url: "https://www.researchgate.net/profile/Eman-Alomar-4"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -89,16 +89,16 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DiegoEliasCosta"
+      url: "https://twitter.com/ECS_Abdullah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DiegoEliasCosta"
+      url: "https://github.com/EmanAlOmar"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=HOWCJPMAAAAJ&hl" 
+      url: "https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en" 
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Diego_Costa9"
+      url: "https://www.researchgate.net/profile/Eman-Alomar-4"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"

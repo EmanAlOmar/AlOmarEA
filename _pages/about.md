@@ -9,7 +9,7 @@ The best way to reach me is through email: eman.alomar [at] mail.rit.edu
   
 But I am also reachable through some social networks such as:
 - Twitter: ECS_Abdullah 
-- Research Gate: Eman Abdullah Alomar
+- Research Gate: Eman-Alomar-4
 
 
 ## Background and Education
