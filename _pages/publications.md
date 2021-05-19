@@ -113,66 +113,12 @@ title: "Publications"
 
 ## 2018
 
-- **Diego Costa** and Artur Andrzejak. 
-	**CollectionSwitch: a framework for efficient and dynamic collection selection.**
-	In CGO'18: *International Symposium on Code Generation and Optimization*, 11 pages, 16–26. 2018. 
+- **AlOmar, E.A**. 
+	**How we refactor and how we mine it? A large scale study on refactoring activities in open source systems.**
+	Master thesis. 2018. 
 	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/323230033){:target="_blank"}
-	<i class="fab fa-github" aria-hidden="true"></i> [CollectionSwitch](https://github.com/DiegoEliasCosta/collectionSwitch){:target="_blank"}
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=10945&context=theses){:target="_blank"}
+	<i class="fab fa-github" aria-hidden="true"></i> 
 
-
-- Mohammadreza Ghanavati, **Diego Costa**, Artur Andrzejak, and Janos Seboek. 
-	**Memory and resource leak defects in Java Projects: an empirical study.** 
-	In ICSE-C'18: *International Conference on Software Engineering: Companion Proceeedings*, 2 pages, 410–411, 2018.
-	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/323477150){:target="_blank"}
-
-
-- Andreas Spitz, **Diego Costa**, Kai Chen, Jan Greulich, Johanna Geiß, Stefan Wiesberg, and Michael Gertz. 
-	**Heterogeneous subgraph features for information networks.**
-	In GRADES-NDA '18: *ACM SIGMOD Joint International Workshop on Graph Data Management Experiences \& Systems and Network Data Analytics*, 9 pages, 71-79, 2018. 
-	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/325591871){:target="_blank"}
-	<i class="fa fa-globe" aria-hidden="true"></i> [Website](https://dbs.ifi.uni-heidelberg.de/resources/hsgf/){:target="_blank"}
 	
 
-## 2017
-
-- **Diego Costa**, Artur Andrzejak, Janos Seboek, and David Lo.  		
-	**Empirical Study of Usage and Performance of Java Collections.**
-	In ICPE'17: *ACM/SPEC on International Conference on Performance Engineering*, 12 pages, 389-400, 2017.
-    <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Open-Access](https://dl.acm.org/doi/10.1145/3030207.3030221){:target="_blank"}
-	<i class="fab fa-github" aria-hidden="true"></i> [CollectionBench](https://github.com/DiegoEliasCosta/CollectionsBench){:target="_blank"}
-
-	
-## 2016
-
-- Zhen Dong, Artur Andrzejak, David Lo and **Diego Costa**, 
-	**ORPLocator: Identifying Read Points of Configuration Options via Static Analysis.**
-	In ISSRE'16: *International Symposium on Software Reliability Engineering*, 11 pages, 185-195, 2016.
-    <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/307429820){:target="_blank"}
-
-
-## 2015
-
-- **Diego Costa** and Rivalino Matias Jr, 
-	**Characterization of Dynamic Memory Allocations in Real-World Applications: An Experimental Study.**
-	In MASCOTS'15:  *IEEE International Symposium on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems*, 9 pages, 93-101, 2015.
-    <br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/278392781){:target="_blank"}
-
-
-- Rivalino Matias, Artur Andrzejak, Fumio Machida, **Diego Costa** and Kishor Trivedi, 
-	**A Systematic Differential Analysis for Fast and Robust Detection of Software Aging.**
-	In SRDS'14: *IEEE International Symposium on Reliable Distributed Systems*, 10 pages, 311-320, 2014.
-	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/263450326){:target="_blank"}
-
-
-- **Diego Costa**, Rivalino Matias, Marcia Fernandes, and Lucio Borges.  
-    **Experimental and theoretical analyses of memory allocation algorithms.**
-	In SAC'14: *ACM Symposium on Applied Computing*, 2 pages, 1545–1546.
-	<br>
-	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](https://www.researchgate.net/publication/259043057){:target="_blank"}
