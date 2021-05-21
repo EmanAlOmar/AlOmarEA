@@ -19,7 +19,7 @@ I am a PhD candidate at [Rochester Institute of Technology](https://www.rit.edu/
 
 I am interested in Software Engineering Research. My main focus of research is Software Maintenance and Refactoring. I developed a refactoring documentation taxonomy to aid the developers in following best documentation practices in order to improve their software development experiences.
 
-For details about my research, please check my [publication list](./_pages/publications/){:target="_blank"}.
+For details about my research, please check my [publication list](https://emanalomar.github.io/AlOmarEA/publications/){:target="_blank"}.
 
 ## Research Interests
 
