@@ -98,7 +98,7 @@ title: "Publications"
   **Can refactoring be self-affirmed? an exploratory study on how developers document their refactoring activities in commit messages.**, In 
   *IEEE/ACM 3rd International Workshop on Refactoring*, 8 pages, (IWoR 2019).
   <br>
-  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](./Preprint/IWoR19-preprint.pdf){:target="_blank"}
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/Preprint/IWoR19-preprint.pdf){:target="_blank"}
 
 
 
