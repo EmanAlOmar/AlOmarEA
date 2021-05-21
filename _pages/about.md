@@ -3,21 +3,14 @@ permalink: /about/
 title: "About"
 ---
 
-## Social Networks
-
-The best way to reach me is through email: eman.alomar [at] mail.rit.edu
-  
-But I am also reachable through some social networks such as:
-- Twitter: ECS_Abdullah 
-- Research Gate: Eman-Alomar-4
-
 
 ## Background and Education
 
-I am from Brazil, and I did both my undergrad and my MSc. degrees at the Federal University of Uberlândia. 
-During my master's, I worked on analyzing the performance of memory allocators with Dr. Rivalino Matias. 
-At that time, I got the opportunity to work with Dr. Artur Andrejak on a project related to software aging. 
-This collaboration went super well and prof. Artur Andrzejak was kind enough to invite me to apply for a scholarship at Heidelberg University. 
+Eman Abdullah AlOmar is a Computing and Information Sciences Ph.D. candidate at Rochester Institute of Technology (RIT). 
+Eman also holds a Master’s in Software Engineering from RIT and Bachelor’s in Computer Science.
+
+She is the recipient of the Best Paper Award and Best Presentation Award at the 2019 IEEE International Workshop on Refactoring (IWoR) 
+for the paper title as **Can Refactoring be Self-affirmed? An Exploratory Study on How Developers Document their Refactoring Activities in Commit Messages**.
 
 <i class="fa fa-graduation-cap"></i> Ph.D in Computing and Information Sciences, 2021
 <br> <span style="color:gray; font-size:.8em;"> Rochester Institute of Technology, USA </span>
@@ -28,19 +21,23 @@ This collaboration went super well and prof. Artur Andrzejak was kind enough to 
 <i class="fa fa-graduation-cap"></i> B.Sc in Computer Science
 <br> <span style="color:gray; font-size:.8em;"> </span>
 
+## Research Interests
+
+- Software Engineering
+- Software Maintenance & Evolution
+- Empirical Software Engineering
+- Software Refactoring
+- Technical Debt
+- Machine Learning
 
 
-## Hobbies
+## Social Networks
 
-When writing this list, I realized I have quite a handful of hobbies. 
-I don't have nearly enough time to dedicate to these activities anymore, so I am mostly an enthusiast nowadays. 
-
-- **Guitar playing.** I have been on a handful of rock bands in my youth and still play guitar regularly. I was playing guitar way before I ever touched a computer and wanted to be a professional musician for a long time. I am super glad I didn't because I got to keep my hobby while still working on a kick-ass field. 
-
-- **Football** A Brazilian that likes football? How original. I used to play football a lot and have always loved the game. I try to watch games from some major league, and I support my local team, Cruzeiro (the greatest of Minas).
+The best way to reach me is through email: eman.alomar [at] mail.rit.edu
   
-- **Videogames.** Videogames was the main reason I ended up choosing Computer Science instead of any other engineering major. My first contact with programming was through the RPG Maker, a platform where we could develop (old-school) RPG games, and sometimes needed to program in Ruby. Today, I am still fond of RPG and try to play some of them when I have time.
+But I am also reachable through some social networks such as:
+- Twitter: ECS_Abdullah 
+- Research Gate: Eman-Alomar-4
 
-- **Movies and Series.** Fantasy and Scify are my favorite genre, but we watch anything good. Except for horror movies. I can't stand them. 
 
-- **Board games.** This one I picked up more recently in the urge to transport some of the fun with games to the analogic world. I try to play board games with my wife somewhat regularly. 
+
