@@ -75,7 +75,7 @@ title: "Publications"
 <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}	
 
 - **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A. **Mining and managing big data refactoring for design improvement: Are we there yet?.**, 
-   In *Knowledge management in development of data-intensive software systems*, pages, (KMDDIS 2020).
+   In *Knowledge management in development of data-intensive software systems*, 14 pages, (KMDDIS 2020).
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/KMDDIS19-preprint.pdf){:target="_blank"}
 
@@ -95,7 +95,7 @@ title: "Publications"
 
 ## 2019
 
-- **AlOmar, E. A.** **Towards better understanding developer perception of refactoring.**<i> In *IEEE International Conference on Software Maintenance and Evolution*, 6 pages, (ICSME-DS 2019).
+- **AlOmar, E. A.** **Towards better understanding developer perception of refactoring.**<i> In *IEEE International Conference on Software Maintenance and Evolution*, 5 pages, (ICSME-DS 2019).
 <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSME19-preprint.pdf){:target="_blank"}
 
