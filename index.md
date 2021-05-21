@@ -15,11 +15,11 @@ author_profile: true
 
 Hi, I am Eman and welcome to my academic space!
 
-I am a PhD candidate at [Rochester Institute of Technology](https://www.rit.edu/){:target="_blank"}, United States, working at the Department of Computing and Information Science 
+I am a PhD candidate at [Rochester Institute of Technology](https://www.rit.edu/){:target="_blank"}, United States, working at the Department of Computing and Information Science. 
 
 I am interested in Software Engineering Research. My main focus of research is Software Maintenance and Refactoring. I developed a refactoring documentation taxonomy to aid the developers in following best documentation practices in order to improve their software development experiences.
 
-For details about my research, please check my [publication list](/publications/){:target="_blank"}.
+For details about my research, please check my [publication list](./_pages/publications/){:target="_blank"}.
 
 ## Research Interests
 
