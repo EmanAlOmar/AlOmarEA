@@ -11,6 +11,8 @@ main:
     url: /teaching/
   - title: "Awards"
     url: /awards/
+    - title: "Talks"
+    url: /talks/
   # - title: "Categories"
   #   url: /categories/
   - title: "About"
