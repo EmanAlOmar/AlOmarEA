@@ -11,11 +11,11 @@ title: "Publications"
 ## 2021
 			
 - Hamdi, O.; Ouni, A., **AlOmar, E. A.**, Cinnéide, M., Mkaouer, M. W. **An empirical study on the impact of refactoring on quality metrics in Android applications.** In 
-*International Conference on on Mobile Software Engineering and Systems (MOBILESoft)*, 12 pages, (MOBILESoft).
+*International Conference on on Mobile Software Engineering and Systems*, 12 pages, (MOBILESoft 2021).
 <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](){:target="_blank"} 
 
--  Peruma, A., Hu, E., Chen, J., **AlOmar, E. A.**, Mkaouer, M. W., Newman, C. **  Using grammar patterns to interpret test method name evolution.** In
+-  Peruma, A., Hu, E., Chen, J., **AlOmar, E. A.**, Mkaouer, M. W., Newman, C. **Using grammar patterns to interpret test method name evolution.** In
 *International Conference on Program Comprehension*, 12 pages, (ICPC 2021). 
 <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](){:target="_blank"}  
@@ -64,7 +64,7 @@ title: "Publications"
 	<i class="fa fa-file-pdf"></i> [Pre-print](){:target="_blank"}             
 
 - **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A. **Mining and managing big data refactoring for design improvement: Are we there yet?.**, 
-   In *Knowledge management in development of data-intensive software systems*, pages, (KMDDIS 2020),
+   In *Knowledge management in development of data-intensive software systems*, pages, (KMDDIS 2020).
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](){:target="_blank"}
 
@@ -83,7 +83,7 @@ title: "Publications"
 
 ## 2019
 
-- **AlOmar, E. A.**. **Towards better understanding developer perception of refactoring.**<i> In *IEEE International Conference on Software Maintenance and Evolution*, 6 pages, (ICSME-DS 2019).
+- **AlOmar, E. A.** **Towards better understanding developer perception of refactoring.**<i> In *IEEE International Conference on Software Maintenance and Evolution*, 6 pages, (ICSME-DS 2019).
 <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](){:target="_blank"}
 
@@ -104,7 +104,7 @@ title: "Publications"
 
 ## 2018
 
-- **AlOmar, E.A**. 
+- **AlOmar, E. A.**
 	**How we refactor and how we mine it? A large scale study on refactoring activities in open source systems.**
 	Master thesis. 2018. 
 	<br>
