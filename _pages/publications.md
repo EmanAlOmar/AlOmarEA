@@ -77,13 +77,13 @@ title: "Publications"
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/JSS19-preprint.pdf){:target="_blank"} 
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}	
 
-- **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A. **Mining and managing big data refactoring for design improvement: Are we there yet?.**, 
+- **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A. **Mining and managing big data refactoring for design improvement: Are we there yet?.** 
    In *Knowledge management in development of data-intensive software systems*, 14 pages, (KMDDIS 2020).
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/KMDDIS19-preprint.pdf){:target="_blank"}
 
 - **AlOmar, E. A.**, Peruma, A., Newman, C., Mkaouer, M. W., Ouni, A.
-    **On the relationship between developer experience and refactoring: An exploratory study and preliminary results.**, 
+    **On the relationship between developer experience and refactoring: An exploratory study and preliminary results.** 
     In *IEEE/ACM 4th International Workshop on Refactoring*, 8 pages, (IWoR 2020).
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/IWoR20-preprint2.pdf){:target="_blank"}
@@ -91,26 +91,26 @@ title: "Publications"
 
 
 -  Bogart, A., **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A.  
-	**Increasing the trust in refactoring through visualization.**,
+	**Increasing the trust in refactoring through visualization.**
 	In *IEEE/ACM 4th International Workshop on Refactoring*, 8 pages, (IWoR 2020).
 	<br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IWoR20-preprint.pdf){:target="_blank"}
 
 ## 2019
 
-- **AlOmar, E. A.** **Towards better understanding developer perception of refactoring.**, In *IEEE International Conference on Software Maintenance and Evolution*, 5 pages, (ICSME-DS 2019).
+- **AlOmar, E. A.** **Towards better understanding developer perception of refactoring.** In *IEEE International Conference on Software Maintenance and Evolution*, 5 pages, (ICSME-DS 2019).
 <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSME19-preprint.pdf){:target="_blank"}
 
 - **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A., Kessentini, M.
-    **On the impact of refactoring on the relationship between quality attributes and design metrics.**, 
+    **On the impact of refactoring on the relationship between quality attributes and design metrics.**
     In *ACM/IEEE International Symposium on Empirical Software Engineering and Measurement*, 12 pages, (ESEM 2019). 
     <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ESEM19-preprint.pdf){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
 - **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A.
-  **Can refactoring be self-affirmed? an exploratory study on how developers document their refactoring activities in commit messages.**, In 
+  **Can refactoring be self-affirmed? an exploratory study on how developers document their refactoring activities in commit messages.** In 
   *IEEE/ACM 3rd International Workshop on Refactoring*, 8 pages, (IWoR 2019).
   <br>
   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IWoR19-preprint.pdf){:target="_blank"}
