@@ -23,5 +23,5 @@ title: "Awards and Nominations"
     <br>Awarded by International Workshop on Refactoring (IWoR). 
 
 
-**Awarded MSc Scholarship** <span style="float:right;"> <!--*2008-10*--> </span> 
+**Awarded MSc Scholarship** <span style="float:right;"> *2016-2018* </span> 
     <br>Awarded by King Abdullah Scholarship Program (KASP). 
