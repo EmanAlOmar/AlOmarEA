@@ -1,10 +1,10 @@
 ---
-title: 'Diego Elias Costa'
+title: 'Eman Abdullah AlOmar'
 layout: single
 author_profile: true
 
 #header:
-#  overlay_image: /images/paris.jpg
+#  overlay_image: /images/bio-photo.jpg
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 

@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "Eman Abdullah AlOmar"
-  avatar : "/assets/images/" # for personal photo
+  avatar : "/assets/images/bio-photo.jpg" # for personal photo
   bio    : "PhD Candidate in Rochester Institute of Technology."
   links:
     #- label: "Website"
