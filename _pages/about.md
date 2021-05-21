@@ -6,7 +6,7 @@ title: "About"
 
 ## Background and Education
 
-Eman Abdullah AlOmar is a Computing and Information Sciences Ph.D. candidate at Rochester Institute of Technology (RIT). 
+Eman Abdullah AlOmar is a Computing and Information Sciences Ph.D. candidate at [Rochester Institute of Technology](https://www.rit.edu/){:target="_blank"}, (RIT), United States. 
 Eman also holds a Master’s in Software Engineering from RIT and Bachelor’s in Computer Science.
 
 She is the recipient of the Best Paper Award and Best Presentation Award at the 2019 IEEE International Workshop on Refactoring (IWoR) 
@@ -23,12 +23,16 @@ for the paper title as **Can Refactoring be Self-affirmed? An Exploratory Study 
 
 ## Research Interests
 
+I am interesting at the intersection of Software Engineering (SE) and Artificial Intelligence (AI)
+
 - Software Engineering
 - Software Maintenance & Evolution
 - Empirical Software Engineering
+- Mining Software Repositories
 - Software Refactoring
 - Technical Debt
 - Machine Learning
+
 
 
 ## Social Networks
