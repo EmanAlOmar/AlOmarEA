@@ -29,7 +29,7 @@ classes: "wide"
 - International Conference on Software Engineering (ICSE), 2021.
 - International Conference of Centre for Advanced Studies on Collaborative Research (CASCON), 2020.
 - International Conference of Software Maintenance and Evolution (ICSME), 2019.
-- Jubail University College (JUC), 2012-2013.
+<!-- Jubail University College (JUC), 2012-2013.-->
 
 
 
