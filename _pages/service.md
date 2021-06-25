@@ -10,6 +10,7 @@ classes: "wide"
 
 ## Program Committee Member
 
+- International Conference of Object-oriented Programming, Systems, Languages, and Applications - Artifact Evaluation (OOPSLA), 2021.
 - International Symposium on Software Testing and Analysis - Artifact Evaluation (ISSTA), 2021.
 - International Symposium on Code Generation and Optimization - Artifact Evaluation (CGO), 2021.
 - International Conference on Mining Software Repositories (MSR), 2021.
@@ -29,7 +30,7 @@ classes: "wide"
 - International Conference on Software Engineering (ICSE), 2021.
 - International Conference of Centre for Advanced Studies on Collaborative Research (CASCON), 2020.
 - International Conference of Software Maintenance and Evolution (ICSME), 2019.
-<!-- Jubail University College (JUC), 2012-2013.-->
+
 
 
 

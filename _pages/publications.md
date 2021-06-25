@@ -9,6 +9,12 @@ title: "Publications"
 
 
 ## 2021
+
+- **AlOmar, E. A.**, Mkaouer, M. W., Newman, C., Ouni, A. **On preserving the behavior in software refactoring: A systematic mapping study.** In 
+*Information and Software Technology*, 43 pages, (IST 2021). 
+    <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/IST21-preprint.pdf){:target="_blank"}  
+	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 			
 - Hamdi, O.; Ouni, A., **AlOmar, E. A.**, Cinnéide, M., Mkaouer, M. W. **An empirical study on the impact of refactoring on quality metrics in Android applications.** In 
 *International Conference on on Mobile Software Engineering and Systems*, 12 pages, (MOBILESoft 2021).
@@ -29,7 +35,7 @@ title: "Publications"
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/ISSE21-preprint.pdf){:target="_blank"}  
 
 			
-- **AlOmar, E. A.**, Alrubaye, H., Mkaouer, M. W.; Ouni, A., Kessentini, M. **Refactoring practices in the context of modern code review: An industrial case study at Xerox.** In 
+- **AlOmar, E. A.**, Alrubaye, H., Mkaouer, M. W., Ouni, A., Kessentini, M. **Refactoring practices in the context of modern code review: An industrial case study at Xerox.** In 
 *International Conference on Software Engineering*, 10 pages, (ICSE 2021). 
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/ICSE21-preprint.pdf){:target="_blank"}  
