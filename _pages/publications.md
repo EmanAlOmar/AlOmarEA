@@ -20,6 +20,7 @@ title: "Publications"
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/IST21-preprint.pdf){:target="_blank"}  
 	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+
 			
 - Hamdi, O.; Ouni, A., **AlOmar, E. A.**, Cinnéide, M., Mkaouer, M. W. **An empirical study on the impact of refactoring on quality metrics in Android applications.** In 
 *International Conference on on Mobile Software Engineering and Systems*, 12 pages, (MOBILESoft 2021).
