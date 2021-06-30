@@ -9,6 +9,11 @@ title: "Publications"
 
 
 ## 2021
+- **AlOmar, E. A.**, B. Christians, M. Busho, A. AlKhalid, Ouni, A.,Newman, C., Mkaouer, M. W. **SATDBailiff - Mining and tracking self-admitted technical debt.** In 
+*Science of Computing Programming*, 21 pages, (SCP 2021).
+    <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/SCP21-preprint.pdf){:target="_blank"} 
+	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/SCP20_index.html){:target="_blank"}
 
 - **AlOmar, E. A.**, Mkaouer, M. W., Newman, C., Ouni, A. **On preserving the behavior in software refactoring: A systematic mapping study.** In 
 *Information and Software Technology*, 43 pages, (IST 2021). 

@@ -34,7 +34,7 @@ I am interesting at the intersection of Software Engineering (SE) and Artificial
 - Machine Learning
 
 ## News
-
+- June 2021: Our paper ["SATDBailiff - Mining and tracking self-admitted technical debt"](/AlOmarEA/Preprint/SCP21-preprint.pdf){:target="_blank"} was accepted at SCP!
 - June 2021: Our paper ["On preserving the behavior in software refactoring: A systematic mapping study"](/AlOmarEA/Preprint/IST21-preprint.pdf){:target="_blank"} was accepted at IST!
 -  May 2021: I will be part of the Program Committee at [IWoR 2021](){:target="_blank"}.  
 - January  2021: Our paper ["Finding the needle in a haystack: On the automatic identification of accessibility user reviews"](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"} was accepted at CHI!
