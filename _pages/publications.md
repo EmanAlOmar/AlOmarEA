@@ -9,6 +9,14 @@ title: "Publications"
 
 
 ## 2021
+
+- Golubev, Y., Kurbatova, Z., **AlOmar, E. A.**, Bryksin, T., Mkaouer, M. W. **One thousand and one stories: A large-scale survey of software refactoring.** In 
+*Symposium on Foundations of Software Engineering*, 12 pages, (ESEC/FSE 2021).
+    <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/){:target="_blank"} 
+	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://zenodo.org/record/4923175){:target="_blank"}
+	
+	
 - **AlOmar, E. A.**, B. Christians, M. Busho, A. AlKhalid, Ouni, A.,Newman, C., Mkaouer, M. W. **SATDBailiff - Mining and tracking self-admitted technical debt.** In 
 *Science of Computing Programming*, 21 pages, (SCP 2021).
     <br>
@@ -18,8 +26,8 @@ title: "Publications"
 - **AlOmar, E. A.**, Mkaouer, M. W., Newman, C., Ouni, A. **On preserving the behavior in software refactoring: A systematic mapping study.** In 
 *Information and Software Technology*, 43 pages, (IST 2021). 
     <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/IST21-preprint.pdf){:target="_blank"}  
-	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IWoR19-preprint.pdf){:target="_blank"}
+   <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
 			
 - Hamdi, O.; Ouni, A., **AlOmar, E. A.**, Cinnéide, M., Mkaouer, M. W. **An empirical study on the impact of refactoring on quality metrics in Android applications.** In 
