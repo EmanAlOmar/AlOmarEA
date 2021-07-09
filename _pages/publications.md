@@ -26,7 +26,7 @@ title: "Publications"
 - **AlOmar, E. A.**, Mkaouer, M. W., Newman, C., Ouni, A. **On preserving the behavior in software refactoring: A systematic mapping study.** In 
 *Information and Software Technology*, 43 pages, (IST 2021). 
     <br>
-   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IWoR19-preprint.pdf){:target="_blank"}
+   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IST21-preprint.pdf){:target="_blank"}
    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
 			
@@ -52,15 +52,15 @@ title: "Publications"
 - **AlOmar, E. A.**, Alrubaye, H., Mkaouer, M. W., Ouni, A., Kessentini, M. **Refactoring practices in the context of modern code review: An industrial case study at Xerox.** In 
 *International Conference on Software Engineering*, 10 pages, (ICSE 2021). 
     <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/ICSE21-preprint.pdf){:target="_blank"}  
-	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSE21-preprint.pdf){:target="_blank"}
+    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
 
 - **AlOmar, E. A.**, Aljedaani, W., Tamjeed, W., Mkaouer, M. W., and El-Glaly, Y. **Finding the needle in a haystack: On the automatic identification of accessibility user reviews.** In
 *Annual Conference on Human Factors in Computing Systems*, 16 pages, (CHI 2021).
      <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"}  
-	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"}
+    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
 
 ## 2020
 
@@ -72,8 +72,8 @@ title: "Publications"
 - **AlOmar, E. A.**, Barinas, D., Liu, J., Mkaouer, M. W., Ouni, A, Newman, C. **An exploratory study on how software reuse is discussed in stack overflow.** 
     In *International Conference on Software and Systems Reuse*, 12 pages, (ICSR 2020).
     <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/ICSR20-preprint2.pdf){:target="_blank"}     
-    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}	
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSR20-preprint2.pdf){:target="_blank"}
+    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
         
            
 
