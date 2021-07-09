@@ -88,8 +88,8 @@ title: "Publications"
 - **AlOmar, E. A.**, Peruma, A., Mkaouer, M. W., Newman, C., Ouni, A., Kessentini, M. **How we refactor and how we document it? On the use of supervised machine learning algorithms to classify refactoring documentation.** 
     In *International Journal of Expert Systems With Applications*, 26 pages, (ESWA 2020).
     <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/ESWA20_preprint.pdf){:target="_blank"}   
-    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}	
+		<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/ESWA20_preprint.pdf){:target="_blank"} 
+	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}	
 
 - **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A. **Toward the automatic classiffcation of self-affirmed refactoring.**
   In *Journal of Systems and Software*, 20 pages, (JSS 2020).
