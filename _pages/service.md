@@ -20,6 +20,7 @@ classes: "wide"
 
 ## Journal Reviewer
 
+- Expert Systems With Applications (ESWA), 2021.
 - Journal of Software Engineering and Applications (JSEA), 2020.
 - Advances in Science, Technology and Engineering Systems Journal (ASTESJ), 2020.
 - Arabian Journal for Science and Engineering (AJSE), 2020.
