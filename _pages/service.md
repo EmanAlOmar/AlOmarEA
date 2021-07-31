@@ -10,6 +10,7 @@ classes: "wide"
 
 ## Program Committee Member
 
+- ACM Technical Symposium on Computer Science Education (SIGCSE), 2022.
 - International Conference of Object-oriented Programming, Systems, Languages, and Applications - Artifact Evaluation (OOPSLA), 2021.
 - International Symposium on Software Testing and Analysis - Artifact Evaluation (ISSTA), 2021.
 - International Symposium on Code Generation and Optimization - Artifact Evaluation (CGO), 2021.
