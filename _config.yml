@@ -80,7 +80,7 @@ author:
       url: "https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en" 
     - label: "Dblp"
       icon: "ai ai-orcid-square ai-fw"
-    #  url: "https://dblp.org/pid/243/1650.html"
+      url: "https://dblp.org/pid/243/1650.html"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Eman-Alomar-4"
