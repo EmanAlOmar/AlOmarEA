@@ -79,7 +79,7 @@ author:
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en" 
     - label: "Dblp"
-      icon: "ai ai-dblp"
+      icon: "simple-icons:dblp"
       url: "https://dblp.org/pid/243/1650.html"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
