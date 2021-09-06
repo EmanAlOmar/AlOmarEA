@@ -10,6 +10,13 @@ title: "Publications"
 
 ## 2021
 
+-  **AlOmar, E. A.**, Peruma, A., Newman, C., Mkaouer, M. W., Ouni, A.
+    **Behind the Scenes: On the relationship between developer experience and refactoring.** 
+    In *Journal of Software: Evolution and Process*, 28 pages, (JSEP 2021).
+    <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/JSEP21-preprint.pdf){:target="_blank"}
+	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
+
 - Golubev, Y., Kurbatova, Z., **AlOmar, E. A.**, Bryksin, T., Mkaouer, M. W. **One thousand and one stories: A large-scale survey of software refactoring.** In 
 *Symposium on Foundations of Software Engineering*, 11 pages, (ESEC/FSE 2021).
     <br>
