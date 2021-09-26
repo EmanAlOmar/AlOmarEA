@@ -10,6 +10,20 @@ title: "Publications"
 
 ## 2021
 
+-  Hamdi, O., Ouni, A., **AlOmar, E. A.**, Mkaouer, M. W.
+  **An empirical study on code smells co-occurrences in Android applications.** In 
+  *IEEE/ACM 5th International Workshop on Refactoring*, 8 pages, (IWoR 2021).
+  <br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IWoR19-preprint.pdf){:target="_blank"}
+  <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+  
+-  Sagar, P., **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A., Newman, C.
+    **Comparing commit messages and source code metrics for the prediction of refactoring activities.** 
+    In *Multidisciplinary Digital Publishing Institute- algorithms*, 20 pages, (MDPI 2021).
+    <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/JSEP21-preprint.pdf){:target="_blank"}
+	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://github.com/smilevo/refactoring-metrics-prediction){:target="_blank"}
+
 -  **AlOmar, E. A.**, Peruma, A., Newman, C., Mkaouer, M. W., Ouni, A.
     **Behind the Scenes: On the relationship between developer experience and refactoring.** 
     In *Journal of Software: Evolution and Process*, 28 pages, (JSEP 2021).
