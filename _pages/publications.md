@@ -74,14 +74,14 @@ relationship between technical debt and refactoring**. In *International Confere
   **An empirical study on code smells co-occurrences in Android applications.** In 
   *IEEE/ACM 5th International Workshop on Refactoring*, 8 pages, (IWoR 2021).
   <br>
-  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IWoR19-preprint.pdf){:target="_blank"}
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IWoR21-preprint.pdf){:target="_blank"}
   <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
   
 -  Sagar, P., **AlOmar, E. A.**, Mkaouer, M. W., Ouni, A., Newman, C.
     **Comparing commit messages and source code metrics for the prediction of refactoring activities.** 
     In *Multidisciplinary Digital Publishing Institute- algorithms*, 20 pages, (MDPI 2021).
     <br>
-	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/JSEP21-preprint.pdf){:target="_blank"}
+	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/Algorithms21-preprint.pdf){:target="_blank"}
 	<i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://github.com/smilevo/refactoring-metrics-prediction){:target="_blank"}
 
 -  **AlOmar, E. A.**, Peruma, A., Newman, C., Mkaouer, M. W., Ouni, A.
@@ -111,7 +111,7 @@ relationship between technical debt and refactoring**. In *International Confere
    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
 			
-- Hamdi, O.; Ouni, A., **AlOmar, E. A.**, Cinnéide, M., Mkaouer, M. W. **An empirical study on the impact of refactoring on quality metrics in Android applications.** In 
+- Hamdi, O., Ouni, A., **AlOmar, E. A.**, Cinnéide, M., Mkaouer, M. W. **An empirical study on the impact of refactoring on quality metrics in Android applications.** In 
 *International Conference on on Mobile Software Engineering and Systems*, 12 pages, (MOBILESoft 2021).
     <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/MOBILESoft21-preprint.pdf){:target="_blank"} 
@@ -143,6 +143,10 @@ relationship between technical debt and refactoring**. In *International Confere
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"}
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
 
+- W. Aljedaani, M. Aljedaani, **E. A. AlOmar**, M. W. Mkaouer, S. Ludi, and Y. Bani Khalaf. **I cannot see you – The perspectives of deaf students to online
+learning during COVID-19 Pandemic: Saudi Arabia case study**.  Multidisciplinary Digital Publishing Institute - education sciences, 20 pages, (Education Sciences 2021). 
+  <br>
+	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/Education21-preprint.pdf){:target="_blank"} 
 
 - **AlOmar, E. A.**
 	**State of refactoring adoption: Towards better understanding developer perception of refactoring.**
