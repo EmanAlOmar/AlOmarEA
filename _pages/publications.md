@@ -5,8 +5,29 @@ title: "Publications"
 ---
 
 <!--## Pre-prints-->
-	
 
+## 2023
+
+- **AlOmar, E.A.**, AlOmar, S.A. and Mkaouer, M.W., 2023. **On the use of static analysis to engage students with software quality improvement: An experience with PMD**. In 
+*International Conference on Software Engineering*, 13 pages, (ICSE 2023).
+    <br>
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSE23-preprint.pdf){:target="_blank"}
+    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+
+- **AlOmar, E.A.**, Ivanov, A., Kurbatova, Z., Golubev, Y., Mkaouer, M.W., Ouni, A., Bryksin, T., Nguyen, L., Kini, A. and Thakur, A., 2023. **Just-in-time code duplicates extraction**. *Information and Software Technology*, 158, (IST 2023).
+<br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IST23-preprint.pdf){:target="_blank"}
+  <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://github.com/JetBrains-Research/anti-copy-paster/){:target="_blank"}
+
+- A. Ouni, I. Saidani, **E. A. AlOmar**, and M. W. Mkaouer. **An empirical study on continuous integration trends, topics and challenges in stack overflow**. In Proceedings of the  *International Conference on Evaluation and Assessment in Software Engineering*, 10 pages, (EASE 2023).
+
+- **AlOmar, E. A.**, Peruma, A., Mkaouer, M. W., Ouni, A, Newman, C. **How is software reuse discussed in stack overflow?** 
+    In *Conference on Systems Engineering Research*, 12 pages, (CSER 2023).
+    <br>
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/CSER23-preprint.pdf){:target="_blank"}
+    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
+	
+## 2022
 
 ## 2021
 

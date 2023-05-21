@@ -23,7 +23,7 @@ for the paper title as **Can Refactoring be Self-affirmed? An Exploratory Study 
 
 ## Research Interests
 
-I am interesting at the intersection of Software Engineering (SE) and Artificial Intelligence (AI)
+I am interested at the intersection of Software Engineering (SE) and Artificial Intelligence (AI)
 
 - Software Engineering
 - Software Maintenance & Evolution
