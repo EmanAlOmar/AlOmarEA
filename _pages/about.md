@@ -29,9 +29,10 @@ I am interesting at the intersection of Software Engineering (SE) and Artificial
 - Software Maintenance & Evolution
 - Empirical Software Engineering
 - Mining Software Repositories
+- Software Quality
 - Software Refactoring
 - Technical Debt
-- Machine Learning
+- Artificial intelligence
 
 
 
