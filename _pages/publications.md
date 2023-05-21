@@ -14,7 +14,7 @@ title: "Publications"
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSE23-preprint.pdf){:target="_blank"}
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
-- **AlOmar, E.A.**, Ivanov, A., Kurbatova, Z., Golubev, Y., Mkaouer, M.W., Ouni, A., Bryksin, T., Nguyen, L., Kini, A. and Thakur, A., 2023. **Just-in-time code duplicates extraction**. *Information and Software Technology*, 158, (IST 2023).
+- **AlOmar, E.A.**, Ivanov, A., Kurbatova, Z., Golubev, Y., Mkaouer, M.W., Ouni, A., Bryksin, T., Nguyen, L., Kini, A. and Thakur, A., 2023. **Just-in-time code duplicates extraction**. In *Information and Software Technology*, 158, (IST 2023).
 <br>
   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IST23-preprint.pdf){:target="_blank"}
   <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://github.com/JetBrains-Research/anti-copy-paster/){:target="_blank"}
@@ -28,6 +28,43 @@ title: "Publications"
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
 	
 ## 2022
+
+- **E. A. AlOmar**, M. Chouchen, M. W. Mkaouer, and A. Ouni. **Code review practices for refactoring changes: An empirical
+  study on OpenStack**. In *International Conferences on Mining Software Repositories*, 13 pages, (MSR 2022).
+ <br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/MSR22-preprint.pdf){:target="_blank"}
+  <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+
+- **E. A. AlOmar**, A. Peruma, M. W. Mkaouer,  C. Newman, and A. Ouni. **An exploratory study on refactoring documentation in issues handling**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2022).
+ <br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/MSR22-preprint2.pdf){:target="_blank"}
+  <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+
+- A. Peruma, **E. A. AlOmar**,  C. Newman, M. W. Mkaouer, and A. Ouni. **Refactoring debt: myth or reality? An exploratory study on the
+relationship between technical debt and refactoring**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2022). 
+ <br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/MSR22-preprint3.pdf){:target="_blank"}
+  <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://zenodo.org/record/6345275#.ZGqdIXbMK38){:target="_blank"}
+
+- **AlOmar, E.A.**, Liu, J., Addo, K., Mkaouer, M.W., Newman, C., Ouni, A. and Yu, Z., 2022. **On the documentation of refactoring types**. In *Automated Software Engineering*, 29, pp.1-40, (ASEj 2022). 
+  <br>
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ASEj22-preprint.pdf){:target="_blank"}
+    <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
+
+- **AlOmar, E.A.**, Wang, T., Raut, V., Mkaouer, M.W., Newman, C. and Ouni, A., 2022. **Refactoring for reuse: an empirical study**. In *Innovations in Systems and Software Engineering*, pp.1-31 (ISSE 2022). 
+ <br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ISSE22-preprint.pdf){:target="_blank"}
+  <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
+
+- **AlOmar, E.A.**, Ivanov, A., Kurbatova, Z., Golubev, Y., Mkaouer, M.W., Ouni, A., Bryksin, T., Nguyen, L., Kini, A. and Thakur, A., 2023. **AntiCopyPaster: Extracting code duplicates as soon as they are introduced in the IDE**. In *International Conferences on Automated Software Engineering*, 5 pages, (ASE 2022).
+<br>
+  <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ASE22-preprint){:target="_blank"}
+  <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://github.com/JetBrains-Research/anti-copy-paster/){:target="_blank"}
+
+
+- I. Aryendu, Y. Wang, F. Elkourdi, **E. A. AlOmar**. **Intelligent code review assignment for large scale open source software stacks**. In Proceedings of the fifth *International Workshop on Human-Centric Software Engineering and Cyber Security*. ACM, 8 pages, (HCSE@CS 2022).
+
+
 
 ## 2021
 
@@ -104,6 +141,12 @@ title: "Publications"
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"}
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
 
+
+- **AlOmar, E. A.**
+	**State of refactoring adoption: Towards better understanding developer perception of refactoring.**
+	PhD thesis. 2021. 
+	<br>
+	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Thesis](https://scholarworks.rit.edu/cgi/viewcontent.cgi?article=12064&context=theses){:target="_blank"}
 ## 2020
 
 - **AlOmar, E. A.**, Rodriguez, P., Bowman, J., Wang, T., Adepoju, B., Lopez, K., Newman, C., Ouni, A., Mkaouer, M. W. **How do developers refactor code to improve code reusability?.** In *International Conference on Software and Systems Reuse*, 16 pages, (ICSR 2020).
