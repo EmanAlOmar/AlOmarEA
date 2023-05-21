@@ -6,11 +6,9 @@ title: "Teaching"
 ## Spring Courses 
 
 - Artificial Intelligence for Software Engineering  <span style="float:right;"> *Spring 2023* </span>
-
 - Object-oriented Software Engineering  <span style="float:right;"> *Spring 2023* </span>
-
-- Software Testing, Quality Assurance, and Maintenance  <span style="float:right;"> *Spring 2021, 2023* </span>
-
+- Software Testing, Quality Assurance, and Maintenance  <span style="float:right;"> *Spring 2023* </span>
+- Software Testing, Quality Assurance, and Maintenance  <span style="float:right;"> *Spring 2022* </span>
 - Introduction to Software Engineering  <span style="float:right;"> *Spring 2020* </span>
 
 ## Fall Courses 
