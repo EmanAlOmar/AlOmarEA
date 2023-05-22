@@ -44,6 +44,7 @@ classes: "wide"
 - Journal of Software: Evolution and Process (JSEP), 2023. 
 - Journal of Systems and Software (JSS), 2023.
 - Expert Systems With Applications (ESWA), 2023.
+- Empirical Software Engineering (EMSE), 2023.
 - Transactions on Software Engineering (TSE), 2022.
 - Journal of Systems and Software (JSS), 2022.
 - Software Quality Journal (SQJ), 2022.
@@ -51,6 +52,7 @@ classes: "wide"
 - Artificial Intelligence Review (AIRE), 2022.
 - Expert Systems With Applications (ESWA), 2022.
 - Multidisciplinary Digital Publishing Institute (MDPI), 2022.
+- Empirical Software Engineering (EMSE), 2022.
 - Journal of Systems and Software (JSS), 2021.
 - Expert Systems With Applications (ESWA), 2021.
 - Journal of Software Engineering and Applications (JSEA), 2020.
