@@ -4,6 +4,18 @@ title: "Awards and Nominations"
 #classes: "wide"
 ---
 
+**Distinguished Doctoral Research Award** <span style="float:right;"> *2023* </span>
+    <br>Awarded by International Conference on Mining Software Repositories (MSR). 
+
+**Best Reviewer Award** <span style="float:right;"> *2022* </span>
+    <br>Awarded by Journal of Systems and Software (JSS).  
+
+**Best Mining Challenge Paper Award** <span style="float:right;"> *2021* </span>
+    <br>Awarded by International Conference on Mining Software Repositories (MSR).  
+
+**RIT Software Engineering Graduate Excellence Award** <span style="float:right;"> *2021* </span>
+    <br>Awarded by Rochester Institute of Technology (RIT).  
+
 **RIT Outstanding Graduate Woman Achievement Award Nominee** <span style="float:right;"> *2021* </span>
     <br>Awarded by Rochester Institute of Technology (RIT).  
 
