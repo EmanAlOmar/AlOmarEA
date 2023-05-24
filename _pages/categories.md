@@ -1,5 +1,5 @@
 ---
-permalink: /members/
+permalink: /categories/
 title: "Categories"
 #classes: "wide"
 ---
