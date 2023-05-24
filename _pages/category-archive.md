@@ -1,6 +1,6 @@
 ---
 permalink: /members/
-title: "Members"
+title: "Categories"
 #classes: "wide"
 ---
 const allMembersContainer = document.querySelector("#allMembersContainer");
