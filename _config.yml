@@ -34,7 +34,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 analytics:
   provider: "custom"
   google:
-    tracking_id: "UA-180124591-1"
+    tracking_id: "UA-180076082-1"
     anonymize_ip: false # default
 
 include:
@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Eman Abdullah AlOmar"
   avatar : "/assets/images/image.jpeg" # for personal photo
-  bio    : "PhD Candidate in Rochester Institute of Technology."
+  bio    : "Assistant Professor in Stevens Institute of Technology."
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -78,9 +78,10 @@ author:
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en" 
-   # - label: "Dblp"
-   #   icon: "ai ai-orcid-square ai-fw"
-   #   url: "https://dblp.org/pid/243/1650.html"
+    - label: "Orcid"
+      icon: "ai ai-orcid-square ai-fw"
+      url: "https://orcid.org/0000-0003-1800-9268"
+     #url: "https://dblp.org/pid/243/1650.html"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Eman-Alomar-4"
@@ -99,6 +100,9 @@ footer:
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en" 
+    - label: "Orcid"
+      icon: "ai ai-orcid-square ai-fw"
+      url: "https://orcid.org/0000-0003-1800-9268"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Eman-Alomar-4"

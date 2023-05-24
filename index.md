@@ -10,28 +10,29 @@ author_profile: true
 
 <br>
 
-**I am in the job market!**
+<!--**I am in the job market!**-->
 
 
 Hi, I am Eman and welcome to my academic space!
 
-I am a PhD candidate at [Rochester Institute of Technology](https://www.rit.edu/){:target="_blank"}, United States, working at the Department of Computing and Information Science. 
+I am an assistant professor at [Stevens Institute of Technology](https://www.stevens.edu/){:target="_blank"}, United States, working at the Department of Software Engineering. 
 
-I am interested in Software Engineering Research. My main focus of research is Software Maintenance and Refactoring. I developed a refactoring documentation taxonomy to aid the developers in following best documentation practices in order to improve their software development experiences.
+I am interested in Software Engineering Research. My main focus of research is Software Maintenance and Refactoring. I developed a refactoring documentation taxonomy to aid the developers in following best documentation practices to improve their software development experiences.
 
 For details about my research, please check my [publication list](https://emanalomar.github.io/AlOmarEA/publications/){:target="_blank"}.
 
 ## Research Interests
 
-I am interesting at the intersection of Software Engineering (SE) and Artificial Intelligence (AI)
+I am interested in the intersection of Software Engineering (SE) and Artificial Intelligence (AI)
 
 - Software Engineering
 - Software Maintenance & Evolution
 - Empirical Software Engineering
 - Mining Software Repositories
+- Software Quality
 - Software Refactoring
 - Technical Debt
-- Machine Learning
+- Artificial Itelligence
 
 ## News
 - September 2021: Our paper ["Behind the Scenes: On the relationship between developer experience and refactoring"](/AlOmarEA/Preprint/JSEP21-preprint.pdf){:target="_blank"} was accepted at JSEP!

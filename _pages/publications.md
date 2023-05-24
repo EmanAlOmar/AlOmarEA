@@ -21,7 +21,7 @@ title: "Publications"
 
 - A. Ouni, I. Saidani, **E. A. AlOmar**, and M. W. Mkaouer. **An empirical study on continuous integration trends, topics and challenges in stack overflow**. In Proceedings of the  *International Conference on Evaluation and Assessment in Software Engineering*, 10 pages, (EASE 2023).
 
--  **E. A. AlOmar**. **State of refactoring adoption: Better understanding developer perception of refactoring**. In Proceedings of the  In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2023).}
+-  **E. A. AlOmar**. **State of refactoring adoption: Better understanding developer perception of refactoring**. In Proceedings of the  In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2023).
 
 - **AlOmar, E. A.**, Peruma, A., Mkaouer, M. W., Ouni, A, Newman, C. **How is software reuse discussed in stack overflow?** 
     In *Conference on Systems Engineering Research*, 12 pages, (CSER 2023).
