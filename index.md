@@ -42,13 +42,13 @@ I am interested in the intersection of Software Engineering (SE) and Artificial 
 - January 2023: Our paper ["How is software reuse discussed in stack overflow?"](/AlOmarEA/Preprint/CSER23-preprint.pdf){:target="_blank"} was accepted at CSER!
 - January 2023: Our paper ["On the use of static analysis to engage students with software quality improvement: An experience with PMD"](/AlOmarEA/Preprint/ICSE23-preprint.pdf){:target="_blank"} was accepted at ICSE!
 - Happy New Year, 2023! 
-<!--- September 2021: Our paper ["Behind the Scenes: On the relationship between developer experience and refactoring"](/AlOmarEA/Preprint/JSEP21-preprint.pdf){:target="_blank"} was accepted at JSEP!
-- July 2021: Our paper ["One thousand and one stories: A large-scale survey of software refactoring"](/AlOmarEA/Preprint/FSE21-preprint.pdf){:target="_blank"} was accepted at FSE!
-- June 2021: Our paper ["SATDBailiff - Mining and tracking self-admitted technical debt"](/AlOmarEA/Preprint/SCP21-preprint.pdf){:target="_blank"} was accepted at SCP!
-- June 2021: Our paper ["On preserving the behavior in software refactoring: A systematic mapping study"](/AlOmarEA/Preprint/IST21-preprint.pdf){:target="_blank"} was accepted at IST!
--  May 2021: I will be part of the Program Committee at [IWoR 2021](){:target="_blank"}.  
-- January  2021: Our paper ["Finding the needle in a haystack: On the automatic identification of accessibility user reviews"](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"} was accepted at CHI!
-- January  2021: Our paper ["Refactoring practices in the context of modern code review: An industrial case study at Xerox"](https://arxiv.org/pdf/2102.05201.pdf){:target="_blank"} was accepted at ICSE!-->
+<!--- September 2021: Our paper ["Behind the Scenes: On the relationship between developer experience and refactoring"](/AlOmarEA/Preprint/JSEP21-preprint.pdf){:target="_blank"} was accepted at JSEP!-->
+<!--- July 2021: Our paper ["One thousand and one stories: A large-scale survey of software refactoring"](/AlOmarEA/Preprint/FSE21-preprint.pdf){:target="_blank"} was accepted at FSE!-->
+<!--- June 2021: Our paper ["SATDBailiff - Mining and tracking self-admitted technical debt"](/AlOmarEA/Preprint/SCP21-preprint.pdf){:target="_blank"} was accepted at SCP!-->
+<!--- June 2021: Our paper ["On preserving the behavior in software refactoring: A systematic mapping study"](/AlOmarEA/Preprint/IST21-preprint.pdf){:target="_blank"} was accepted at IST!-->
+<!---  May 2021: I will be part of the Program Committee at [IWoR 2021](){:target="_blank"}.-->  
+<!--- January  2021: Our paper ["Finding the needle in a haystack: On the automatic identification of accessibility user reviews"](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"} was accepted at CHI!-->
+<!--- January  2021: Our paper ["Refactoring practices in the context of modern code review: An industrial case study at Xerox"](https://arxiv.org/pdf/2102.05201.pdf){:target="_blank"} was accepted at ICSE!-->
 
 
 
