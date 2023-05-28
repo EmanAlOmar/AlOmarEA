@@ -14,7 +14,7 @@ ChatGPT improves the quality of the code.
 
 - **Extract Method Refactoring Automation**:  To increase the adoption of the Extract Method refactoring, in this
 project, we aim to investigate the effectiveness of machine learning and deep
-learning algorithms for its recommendation while maintaining the developer's workflow. **Link**: <a> https://github.com/JetBrains-Research/anti-copy-paster</a>
+learning algorithms for its recommendation while maintaining the developer's workflow. This is collaborative work with the industry. **Link**: <a> https://github.com/JetBrains-Research/anti-copy-paster</a> and <a> https://youtu.be/_wwHg-qFjJY</a>.
 
 
 - **Refactoring in Modern Code Review**: The project creates a framework that understands what developers care about when reviewing code and the main criteria developers rely on to accept or reject a submitted refactored code. This framework aims to maximize the acceptance of refactoring to improve the quality of the code by reducing the decision-making process of reviewing refactoring changes.
