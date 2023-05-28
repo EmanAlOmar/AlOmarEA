@@ -6,122 +6,107 @@ title: "Categories"
 author_profile: true
 ---
 
-const allMembersContainer = document.querySelector("#allMembersContainer");
+<!doctype html>
+<html lang="en">
 
-const members = [{
-        classFilter: 'profs-postdocs',
-        photoPath: 'EmanAlOmar.png',
-        link: 'https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en',
-        name: 'Eman Abdullah AlOmar',
-        title: 'Assistant Professor'
-    },
-    {
-        classFilter: 'masters',
-        photoPath: 'SohamManishMehta.jpeg',
-        link: 'www.linkedin.com/in/mehtasoham214/',
-        name: 'Soham Manish Mehta',
-        title: 'Master`s Student'
-    },
-    {
-        classFilter: 'undergrad',
-        photoPath: 'LaurenKibalo.jpg',
-        link: 'https://www.linkedin.com/in/lauren-kibalo-56542a234/',
-        name: 'Lauren Kibalo',
-        title: 'Undergraduate Student'
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "BenjaminKnobloch.jpg",
-        link: 'https://www.linkedin.com/in/benjamin-knobloch-890660210/',
-        name: "Benjamin Knobloch",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "DrewCarranti.jpg",
-        link: 'https://www.linkedin.com/in/andrewcarranti/',
-        name: "Drew Carranti",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "KateMoss.png",
-        link: 'https://www.linkedin.com/in/kate-moss-92b099254',
-        name: "Kate Moss",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "ChiaraHenselder.jpg",
-        link: 'www.linkedin.com/in/chiara-henselder-4478b3227',
-        name: "Chiara Henselder",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "ChristopherKalish.jpg",
-        link: 'https://www.linkedin.com/in/christopher-kalish-b85950224/',
-        name: "Christopher Kalish",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "KaylaDePalma.jpg",
-        link: 'www.linkedin.com/in/kayla-depalma-ab76b7272',
-        name: "Kayla DePalma",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "ThomasKain.jpg",
-        link: 'members.html',
-        name: "Thomas Kain",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "IzabelMiminoshvili.jpg",
-        link: "www.linkedin.com/in/izabelmiminoshvili",
-        name: "Izabel Miminoshvili",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "JonathanMemoli.jpg",
-        link: "www.linkedin.com/in/jonathan-memoli-a6a207251",
-        name: "Jonathan Memoli",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "JosephWeimer.png",
-        link: "linkedin.com/in/joseph-weimer-b32727259/",
-        name: "Joseph Weimer",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "ChristianTemplin.png",
-        link: "https://www.linkedin.com/in/christian-templin-3087b7251/",
-        name: "Christian Templin",
-        title: "Undergraduate Student"
-    },
-    {
-        classFilter: "undergrad",
-        photoPath: "OmarElkhafif.jpg",
-        link: "www.linkedin.com/in/omar-elkhafif-3bbbb2274",
-        name: "Omar Elkhafif",
-        title: "Undergraduate Student"
-    },
- 
-];
+<head>
+    <title>Members</title>
+    <meta charset="utf-8">
+    <script src="{{ base.url | prepend: site.url }}/assets/data/members.js"></script>
+    <link href="./css/bootstrap.css" rel="stylesheet">
+    <link href="./css/font-awesome.min.css" rel="stylesheet">
+    <link href="./css/prettyPhoto.css" rel="stylesheet">
+    <link href="./css/responsive.css" rel="stylesheet">
+    <link href="./css/home.css" rel="stylesheet">
+    <link href="./css/member-style.css" rel="stylesheet" />
+</head>
 
-allMembersContainer.innerHTML = members.map(member =>
-    `
-      <div class="members ${member.classFilter}">
-        <img class="memberImage" alt="${member.name} photo" src="./img/members/${member.photoPath || "not_available.jpg"} " style="width:230px; height:220px;">
-        <h4><a href="${member.link || 'https://sail.cs.queensu.ca/members.html'}">${member.name}</a></h4>
-        <h5><strong>${member.title}</strong></h5>
-      </div>
-    `
-).join('');
+<body class="member">
+    <header class="navbar navbar-fixed-top navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                 <div class="member-buttons-container">
+                    <button class="member-button" onclick="filterMembers('members');">Members</button>
+                    <button class="member-button" onclick="filterMembers('profs-postdocs');">Professors</button>
+                    <!--<button class="member-button" onclick="filterMembers('profs-postdocs');">Profs, Fellows, and Posdocs</button>-->
+                    <!--<button class="member-button" onclick="filterMembers('phd');">PhD Students</button>-->
+                    <button class="member-button" onclick="filterMembers('masters');">Master's Students</button>
+                    <button class="member-button" onclick="filterMembers('undergrad');">Undergraduate Students</button>
+                    <!--<button class="member-button" onclick="filterMembers('visitor-intern');">Visitors and Interns</button>-->
+                    <!--<button class="member-button" onclick="filterMembers('alumni');">Alumni</button>-->
+                </div>
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          </button>
+                <!-- LOGO -->
+                <!--<a class="navbar-brand" href="./index.html"><img class="sail-logo" src="./img/hi_res_logo.png" alt="sail logo"></a>-->
+            </div>
+            <!-- MENU -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+               <!--<ul class="nav navbar-nav navbar-right">-->
+                   <!--<li><a href="./index.html">Home</a></li>-->
+                    <!--<li class="active"><a href="members.html">Members<span class="sr-only">(current)</span></a></li>-->
+                    <!--<li><a href="./publications.html">Publications</a></li>-->
+                    <!--<li><a href="./sponsors.html">Sponsors</a></li>-->
+                    <!--<li><a href="./contact.html">Contact</a></li>-->
+                <!--</ul>-->
+            </div>
+        </div>
+        <!--<div class="color-border"></div>-->
+    </header>
+    <main style="padding-bottom: 140px;">
+        <script type="text/javascript">
+            function filterMembers(className) {
+                hideMembers();
+                var classElements = document.getElementsByClassName(className);
+                for (var i = 0; i < classElements.length; i++) {
+                    classElements[i].style.display = "inline";
+                }
+            }
+
+            function hideMembers() {
+                var classElements = document.getElementsByClassName('members');
+                for (var i = 0; i < classElements.length; i++) {
+                    classElements[i].style.display = "none";
+                }
+            }
+        </script>
+         <!--<section id="member-category">-->
+            <!--<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">-->
+                <!--<div class="member-buttons-container">-->
+                    <!--<button class="member-button" onclick="filterMembers('members');">Members</button>-->
+                    <!--<button class="member-button" onclick="filterMembers('profs-postdocs');">Professors</button>-->
+                    <!--<!--<button class="member-button" onclick="filterMembers('profs-postdocs');">Profs, Fellows, and Posdocs</button>-->
+                    <!--<!--<button class="member-button" onclick="filterMembers('phd');">PhD Students</button>-->
+                    <!--<button class="member-button" onclick="filterMembers('masters');">Master's Students</button>-->
+                    <!--<button class="member-button" onclick="filterMembers('undergrad');">Undergraduate Students</button>-->
+                    <!--<button class="member-button" onclick="filterMembers('visitor-intern');">Visitors and Interns</button>-->
+                    <!--<button class="member-button" onclick="filterMembers('alumni');">Alumni</button>-->
+                <!--</div>-->
+            <!--</div>-->
+         <!--</section>-->
+        <section id="main-slider" class="no-margin">
+            <div class="container">
+
+                <div id="allMembersContainer"></div>
+
+            </div>
+        </section>
+    </main>
+    <div id="footer">
+        <!--<div class="bottom-color-border"></div>-->
+        <!--<div class="footer-container">
+            <h2>SAIL</h2>
+            <p>Software Analysis & Intelligence Lab</p>
+            <p>School of Computing, Queen's University</p>
+        </div>-->
+    </div>
+    <script type="text/javascript" src="./js/jquery.js"></script>
+    <script type="text/javascript" src="./js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./data/members.js"></script>
+</body>
+
+</html>

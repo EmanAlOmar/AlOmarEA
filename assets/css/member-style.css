@@ -1,0 +1,54 @@
+.member-button {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: .45rem;
+    margin-right: .45rem;
+    margin-top: .2rem;
+    font-size: 1.8rem;
+    border: none;
+    padding: 1rem;
+    background: #FAFAFA;
+}
+
+button.member-button:hover {
+    background: rgba(128, 128, 128, 0.1);
+}
+
+button.member-button:focus {
+    color: #F4511E;
+    font-weight: bold;
+}
+
+.member-buttons-container {
+    /*TODO: add margin here with media queries*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+
+#allMembersContainer {
+    display: grid !important;
+    grid-template-columns: auto auto auto auto !important;
+    margin-top: 2rem !important;
+    gap: 20px 20px;
+}
+
+@media (max-width: 1000px) {
+    #allMembersContainer {
+        grid-template-columns: auto auto auto !important;
+    }
+}
+
+@media (max-width: 650px) {
+    #allMembersContainer {
+        grid-template-columns: auto auto !important;
+    }
+}
+
+@media (max-width: 440px) {
+    .memberImage {
+        width: 140px !important;
+    }
+}
