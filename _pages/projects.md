@@ -15,4 +15,4 @@ classes: wide
 
 This website contains all the research related to SAR. You will find all papers, artifacts, datasets, and scripts that we publicly share for replication and extension
 
-**Link**: https://smilevo.github.io/self-affirmed-refactoring/
+**Link**: <a> https://smilevo.github.io/self-affirmed-refactoring/</a>
