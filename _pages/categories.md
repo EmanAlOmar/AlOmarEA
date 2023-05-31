@@ -1,7 +1,7 @@
 ---
 #layout: page
-permalink: /categories/
-title: "Categories"
+permalink: /members/
+title: "Members"
 #classes: "wide"
 author_profile: true
 ---
