@@ -2,7 +2,7 @@ const allMembersContainer = document.querySelector("#allMembersContainer");
 
 const members = [{
         classFilter: 'profs-postdocs',
-        photoPath: '../assets/img/members/EmanAlOmar.png',
+        photoPath: '/AlOmarEA/assets/images/image.jpeg',
         link: 'https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en',
         name: 'Eman Abdullah AlOmar',
         title: 'Assistant Professor'
