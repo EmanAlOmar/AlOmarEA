@@ -17,7 +17,7 @@ Hi, I am Eman and welcome to my academic space!
 
 I am an assistant professor at [Stevens Institute of Technology](https://www.stevens.edu/){:target="_blank"}, United States, working at the Department of Software Engineering. 
 
-I am interested in Software Engineering Research. My main focus of research is Software Maintenance and Refactoring. I developed a refactoring documentation taxonomy to aid the developers in following best documentation practices to improve their software development experiences.
+I am interested in Software Engineering and Artificial Intelligence Research. My main focus of research is Software Maintenance and Refactoring. I developed a refactoring documentation taxonomy to aid the developers in following best documentation practices to improve their software development experiences.
 
 For details about my research, please check my [publication list](https://emanalomar.github.io/AlOmarEA/publications/){:target="_blank"}.
 
