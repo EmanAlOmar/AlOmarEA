@@ -148,9 +148,9 @@ defaults:
   #     author_profile: false
   #     share: true
 
-categories:
+members:
   type: liquid
-  path: /categories/
+  path: /members/
 projects:
   type: liquid
   path: /projects/
