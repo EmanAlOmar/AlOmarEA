@@ -112,7 +112,7 @@ allMembersContainer.innerHTML = members.map(member =>
     `
       <div class="members ${member.classFilter}">
         <!--<img class="memberImage" alt="${member.name} photo" src="./img/members/${member.photoPath || "not_available.jpg"} " style="width:230px; height:220px;">-->
-         <img class="memberImage" alt="${member.name} photo" src="../_pages/img/members/${member.photoPath || "not_available.jpg"} "  style="width:230px; height:220px;">
+         <img class="memberImage" alt="${member.name} photo" src="../_pages/img/members/${member.photoPath || "not_available.jpg"} "  style="width:245px; height:220px;">
         <h4><a href="${member.link || 'https://sail.cs.queensu.ca/members.html'}">${member.name}</a></h4>
         <h5><strong>${member.title}</strong></h5>
       </div>
