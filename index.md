@@ -1,5 +1,5 @@
 ---
-title: 'SparkLab: Intelligent **S**oftware Engineering and **P**rogram **A**nalysis to Advance **R**esearch and **K**nowledge'
+title: 'SPARK Lab: Intelligent **S**oftware Engineering and **P**rogram **A**nalysis to Advance **R**esearch and **K**nowledge'
 layout: single
 author_profile: true
 
