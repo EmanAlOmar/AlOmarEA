@@ -9,9 +9,9 @@ const members = [{
     },
     {
         classFilter: 'masters',
-        photoPath: 'SohamManishMehta.jpeg',
-        link: 'www.linkedin.com/in/mehtasoham214/',
-        name: 'Soham Manish Mehta',
+        photoPath: 'HimanshuDagar.jpg',
+        link: 'https://himanshudagar.com/',
+        name: 'Himanshu Dagar',
         title: 'Master`s Student'
     },
     {
