@@ -9,7 +9,7 @@ const members = [{
     },
     {
         classFilter: 'masters',
-        photoPath: 'HimanshuDagar.JPG',
+        photoPath: 'HimanshuDagar.jpg',
         link: 'https://himanshudagar.com/',
         name: 'Himanshu Dagar',
         title: 'Master`s Student'
