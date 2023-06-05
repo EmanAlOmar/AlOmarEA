@@ -93,9 +93,9 @@ const members = [{
     },
     {
         classFilter: "undergrad",
-        photoPath: "ChristianTemplin.png",
-        link: "https://www.linkedin.com/in/christian-templin-3087b7251/",
-        name: "Christian Templin",
+        photoPath: "OlofPersson.jpeg",
+        link: "http://linkedin.com/in/larsolof-persson",
+        name: "Olof Persson",
         title: "Undergraduate Student"
     },
     {
