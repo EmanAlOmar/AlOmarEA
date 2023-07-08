@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "Eman Abdullah AlOmar"
-  avatar : "/assets/images/image.jpeg" # for personal photo
+  avatar : "/assets/images/logo1.jpeg" # for personal photo
   bio    : "Assistant Professor at Stevens Institute of Technology."
   links:
     #- label: "Website"
