@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 
 #header:
-#  overlay_image: /images/logo1.jpg
+#  overlay_image: /images/logo1.jpeg
 #  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
