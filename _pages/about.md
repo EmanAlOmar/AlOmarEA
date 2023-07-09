@@ -10,10 +10,10 @@ Eman Abdullah AlOmar is an Assistant Professor in the School of Systems and Ente
 
 She served as a program co-chair for IWoR and CSER and regularly serves as a program committee member and journal reviewers of international conferences and journals in the field of software engineering, such as ASE, ICSME, MSR, ICPC, MobileSoft, TSE, TOSEM, EMSE, and JSS.
 
-<i class="fa fa-graduation-cap"></i> Ph.D in Computing and Information Sciences, 2021
+<i class="fa fa-graduation-cap"></i> Ph.D in Computing and Information Sciences
 <br> <span style="color:gray; font-size:.8em;"> Rochester Institute of Technology, USA </span>
 
-<i class="fa fa-graduation-cap"></i> M.Sc in Software Engineering, 2018
+<i class="fa fa-graduation-cap"></i> M.Sc in Software Engineering
 <br> <span style="color:gray; font-size:.8em;"> Rochester Institute of Technology, USA </span>
 
 <i class="fa fa-graduation-cap"></i> B.Sc in Computer Science
