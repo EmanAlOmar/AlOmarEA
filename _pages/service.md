@@ -38,6 +38,7 @@ classes: "wide"
 
 
 ## Journal Reviewer
+- Scientific Reports (SC), 2023.
 - Automated Software Engineering (ASEj), 2023. 
 - Transactions on Software Engineering (TSE), 2023. 
 - Transactions on Software Engineering and Methodology (TOSEM), 2023. 
