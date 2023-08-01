@@ -5,7 +5,7 @@ const members = [{
         photoPath: 'https://emanalomar.github.io/AlOmarEA/assets/img/members/EmanAlOmar.png',
         link: 'https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en',
         name: 'Eman Abdullah AlOmar',
-        title: 'AAAssistant Professor'
+        title: 'Assistant Professor'
     },
     {
         classFilter: 'masters',

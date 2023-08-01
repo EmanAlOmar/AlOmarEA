@@ -5,7 +5,7 @@ const members = [{
         photoPath: 'EmanAlOmar.png',
         link: 'https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en',
         name: 'Eman Abdullah AlOmar',
-        title: 'Assistant Professor'
+        title: 'AAAAssistant Professor'
     },
     {
         classFilter: 'masters',
