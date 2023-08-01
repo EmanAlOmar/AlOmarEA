@@ -13,6 +13,8 @@ classes: "wide"
 - International Workshop on Refactoring (IWoR), 2021. 
 
 ## Program Committee Member
+- Technical Symposium on Computer Science Education - Experience Reports and Tools track (SIGCSE), 2024.
+- International Conference on Program Comprehension (ICPC), 2024.
 - International Working Conference on Source Code Analysis and Manipulation (SCAM), 2023.
 - International Symposium on Software Testing and Analysis - Artifact Evaluation track (ISSTA), 2023.
 - Technical Symposium on Computer Science Education - Experience Reports and Tools track (SIGCSE), 2023.
