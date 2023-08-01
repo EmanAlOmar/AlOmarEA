@@ -14,6 +14,8 @@ title: "Publications"
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSE23-preprint.pdf){:target="_blank"}
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
+- A. Ouni, **E. A. AlOmar**, O. Hamdi, M. Cinnéide, M. W. Mkaouer, and M. A. Saied. **On the impact of single and co-occurrent refactorings on quality attributes in Android applications**. In *Journal of Systems and Software*, 30 pages, 2023  (JSS 2023).
+
 - M. Begoug, N. Bessghaier, A. Ouni, **E. A. AlOmar**, and M. W. Mkaouer. **What do infrastructure-as-code practitioners discuss: An empirical study on stack overflow**. In ACM/IEEE *International Symposium on Empirical Software Engineering and Measurement*, 12 pages, (ESEM 2023).
 
 - **AlOmar, E.A.**, Ivanov, A., Kurbatova, Z., Golubev, Y., Mkaouer, M.W., Ouni, A., Bryksin, T., Nguyen, L., Kini, A. and Thakur, A., 2023. **Just-in-time code duplicates extraction**. In *Information and Software Technology*, 158, (IST 2023).
