@@ -14,18 +14,18 @@ title: "Publications"
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/ICSE23-preprint.pdf){:target="_blank"}
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
-- A. Ouni, **E. A. AlOmar**, O. Hamdi, M. Cinnéide, M. W. Mkaouer, and M. A. Saied. **On the impact of single and co-occurrent refactorings on quality attributes in Android applications**. In *Journal of Systems and Software*, 30 pages, 2023  (JSS 2023).
+- A. Ouni,  **AlOmar, E.A.**, O. Hamdi, M. Cinnéide, M. W. Mkaouer, and M. A. Saied. **On the impact of single and co-occurrent refactorings on quality attributes in Android applications**. In *Journal of Systems and Software*, 30 pages, 2023  (JSS 2023).
 
-- M. Begoug, N. Bessghaier, A. Ouni, **E. A. AlOmar**, and M. W. Mkaouer. **What do infrastructure-as-code practitioners discuss: An empirical study on stack overflow**. In ACM/IEEE *International Symposium on Empirical Software Engineering and Measurement*, 12 pages, (ESEM 2023).
+- M. Begoug, N. Bessghaier, A. Ouni,  **AlOmar, E.A.**, and M. W. Mkaouer. **What do infrastructure-as-code practitioners discuss: An empirical study on stack overflow**. In ACM/IEEE *International Symposium on Empirical Software Engineering and Measurement*, 12 pages, (ESEM 2023).
 
 - **AlOmar, E.A.**, Ivanov, A., Kurbatova, Z., Golubev, Y., Mkaouer, M.W., Ouni, A., Bryksin, T., Nguyen, L., Kini, A. and Thakur, A., 2023. **Just-in-time code duplicates extraction**. In *Information and Software Technology*, 158, (IST 2023).
 <br>
   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/IST23-preprint.pdf){:target="_blank"}
   <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://github.com/JetBrains-Research/anti-copy-paster/){:target="_blank"}
 
-- A. Ouni, I. Saidani, **E. A. AlOmar**, and M. W. Mkaouer. **An empirical study on continuous integration trends, topics and challenges in stack overflow**. In Proceedings of the  *International Conference on Evaluation and Assessment in Software Engineering*, 10 pages, (EASE 2023).
+- A. Ouni, I. Saidani,  **AlOmar, E.A.**, and M. W. Mkaouer. **An empirical study on continuous integration trends, topics and challenges in stack overflow**. In Proceedings of the  *International Conference on Evaluation and Assessment in Software Engineering*, 10 pages, (EASE 2023).
 
--  **E. A. AlOmar**. **State of refactoring adoption: Better understanding developer perception of refactoring**. In Proceedings of the  In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2023).
+-   **AlOmar, E.A.**. **State of refactoring adoption: Better understanding developer perception of refactoring**. In Proceedings of the  In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2023).
 <br>
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/MSR23-preprint.pdf){:target="_blank"}
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
@@ -38,18 +38,18 @@ title: "Publications"
 	
 ## 2022
 
-- **E. A. AlOmar**, M. Chouchen, M. W. Mkaouer, and A. Ouni. **Code review practices for refactoring changes: An empirical
+-  **AlOmar, E.A.**, M. Chouchen, M. W. Mkaouer, and A. Ouni. **Code review practices for refactoring changes: An empirical
   study on OpenStack**. In *International Conferences on Mining Software Repositories*, 13 pages, (MSR 2022).
  <br>
   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/MSR22-preprint.pdf){:target="_blank"}
   <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
-- **E. A. AlOmar**, A. Peruma, M. W. Mkaouer,  C. Newman, and A. Ouni. **An exploratory study on refactoring documentation in issues handling**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2022).
+-  **AlOmar, E.A.**, A. Peruma, M. W. Mkaouer,  C. Newman, and A. Ouni. **An exploratory study on refactoring documentation in issues handling**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2022).
  <br>
   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/MSR22-preprint2.pdf){:target="_blank"}
   <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/){:target="_blank"}
 
-- A. Peruma, **E. A. AlOmar**,  C. Newman, M. W. Mkaouer, and A. Ouni. **Refactoring debt: myth or reality? An exploratory study on the
+- A. Peruma,  **AlOmar, E.A.**,  C. Newman, M. W. Mkaouer, and A. Ouni. **Refactoring debt: myth or reality? An exploratory study on the
 relationship between technical debt and refactoring**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2022). 
  <br>
   <i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/MSR22-preprint3.pdf){:target="_blank"}
@@ -71,7 +71,7 @@ relationship between technical debt and refactoring**. In *International Confere
   <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://github.com/JetBrains-Research/anti-copy-paster/){:target="_blank"}
 
 
-- I. Aryendu, Y. Wang, F. Elkourdi, **E. A. AlOmar**. **Intelligent code review assignment for large scale open source software stacks**. In Proceedings of the fifth *International Workshop on Human-Centric Software Engineering and Cyber Security*. ACM, 8 pages, (HCSE@CS 2022).
+- I. Aryendu, Y. Wang, F. Elkourdi **AlOmar, E.A.**. **Intelligent code review assignment for large scale open source software stacks**. In Proceedings of the fifth *International Workshop on Human-Centric Software Engineering and Cyber Security*. ACM, 8 pages, (HCSE@CS 2022).
 
 
 
@@ -150,7 +150,7 @@ relationship between technical debt and refactoring**. In *International Confere
 	<i class="fa fa-file-pdf" aria-hidden="true"></i> [Pre-print](/AlOmarEA/Preprint/CHI21-preprint.pdf){:target="_blank"}
     <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://smilevo.github.io/self-affirmed-refactoring/index2.html){:target="_blank"}
 
-- W. Aljedaani, M. Aljedaani, **E. A. AlOmar**, M. W. Mkaouer, S. Ludi, and Y. Bani Khalaf. **I cannot see you – The perspectives of deaf students to online
+- W. Aljedaani, M. Aljedaani,  **AlOmar, E.A.**, M. W. Mkaouer, S. Ludi, and Y. Bani Khalaf. **I cannot see you – The perspectives of deaf students to online
 learning during COVID-19 Pandemic: Saudi Arabia case study**.  Multidisciplinary Digital Publishing Institute - education sciences, 20 pages, (Education Sciences 2021). 
   <br>
 	<i class="fa fa-file-pdf"></i> [Pre-print](/AlOmarEA/Preprint/Education21-preprint.pdf){:target="_blank"} 
