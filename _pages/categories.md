@@ -6,4 +6,4 @@ title: "Members"
 author_profile: true
 ---
 
-{% include members.html %}
+{% include members.aspx %}
