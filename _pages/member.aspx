@@ -18,7 +18,7 @@
 <div class="col-xs-6 col-sm-4">
 <div class="team-member">
 <div class="overlay-wrapper2">
-<img src="members%20-%20Copy/members%20-%20Copy/BenjaminKnobloch.jpg" />
+<img src="./assets/img/members/BenjaminKnobloch.jpg" />
 <span class="overlay" style="display: none;">
 <a href=""><i class="fa fa-facebook"></i></a>
 <a href=""><i class="fa fa-twitter"></i></a>
@@ -34,7 +34,7 @@
     <div class="col-xs-6 col-sm-4">
 <div class="team-member">
 <div class="overlay-wrapper2">
-<img src="members%20-%20Copy/members%20-%20Copy/HimanshuDagar.jpg" />
+<img src="./assets/img/members/HimanshuDagar.jpg" />
 <span class="overlay" style="display: none;">
 <a href=""><i class="fa fa-facebook"></i></a>
 <a href=""><i class="fa fa-twitter"></i></a>
@@ -51,7 +51,7 @@
 <div class="team-member">
 <div class="overlay-wrapper2">
    
-<img src="members%20-%20Copy/members%20-%20Copy/LaurenKibalo.jpg" />
+<img src="./assets/img/members/LaurenKibalo.jpg" />
 <span class="overlay" style="display: none;">
 <a href=""><i class="fa fa-facebook"></i></a>
 <a href=""><i class="fa fa-twitter"></i></a>
