@@ -5,6 +5,7 @@ title: "Teaching"
 ---
 ## Spring Courses 
 
+- Pinnacle Scholar Seminars  <span style="float:right;"> *Fall 2024* </span>
 - Artificial Intelligence for Software Engineering  <span style="float:right;"> *Spring 2023* </span>
 - Object-oriented Software Engineering  <span style="float:right;"> *Spring 2023* </span>
 - Software Testing, Quality Assurance, and Maintenance  <span style="float:right;"> *Spring 2023* </span>
@@ -14,8 +15,8 @@ title: "Teaching"
 ## Fall Courses 
 
 - Artificial Intelligence for Software Engineering  <span style="float:right;"> *Fall 2023* </span>
-
-
+- Software Testing, Quality Assurance, and Maintenance  <span style="float:right;"> *Fall 2023* </span>
+- Pinnacle Scholar Seminars  <span style="float:right;"> *Fall 2023* </span>
 
 
 ## Guest Lecturer

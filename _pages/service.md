@@ -13,6 +13,7 @@ classes: "wide"
 - International Workshop on Refactoring (IWoR), 2021. 
 
 ## Program Committee Member
+- International Conference on Mining Software Repositories - MSR Award  (MSR), 2024.
 - Technical Symposium on Computer Science Education - Experience Reports and Tools track (SIGCSE), 2024.
 - International Conference on Program Comprehension (ICPC), 2024.
 - International Working Conference on Source Code Analysis and Manipulation (SCAM), 2023.
