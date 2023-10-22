@@ -8,6 +8,8 @@ title: "Publications"
 
 ## 2023
 
+-  **E. A. AlOmar**, M. W. Mkaouer, and A. Ouni. **Automating source code refactoring in the classroom**. In *Technical Symposium on Computer Science Education*. ACM, 6 pages, 2023 (SIGCSE).
+
 - **AlOmar, E.A.**, AlOmar, S.A. and Mkaouer, M.W., 2023. **On the use of static analysis to engage students with software quality improvement: An experience with PMD**. In 
 *International Conference on Software Engineering*, 13 pages, (ICSE 2023).
     <br>
