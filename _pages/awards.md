@@ -31,7 +31,7 @@ title: "Awards and Nominations"
     <br>Awarded by Rochester Institute of Technology (RIT). 
 
 
-**Best Paper Award and Best Presentation Award** <span style="float:right;"> *2019* </span> 
+**Best Paper Award** <span style="float:right;"> *2019* </span> 
     <br>Awarded by International Workshop on Refactoring (IWoR). 
 
 

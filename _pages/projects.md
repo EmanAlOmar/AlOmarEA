@@ -16,6 +16,8 @@ ChatGPT improves the quality of the code.
 project, we aim to investigate the effectiveness of machine learning and deep
 learning algorithms for its recommendation while maintaining the developer's workflow. This is collaborative work with the industry. **Link**: <a> https://github.com/JetBrains-Research/anti-copy-paster</a> and <a> https://youtu.be/_wwHg-qFjJY</a>.
 
+- **Data Leakage in Python File**: Data leakage is a critical issue in machine learning pipelines that occurs when information from the target variable (the variable we want to predict) unintentionally leaks into the features used to train the model. Preventing data leakage in machine learning pipelines requires a careful understanding of the data, rigorous feature engineering, and robust evaluation techniques to ensure the model's integrity and generalizability. the goal of this project is to aid data scientists with the detection of leaked data in their code. This is done through the implementation Leakage Detector, a plugin that parses Python code to search for patterns of data leakage. 
+
 
 - **Refactoring in Modern Code Review**: The project creates a framework that understands what developers care about when reviewing code and the main criteria developers rely on to accept or reject a submitted refactored code. This framework aims to maximize the acceptance of refactoring to improve the quality of the code by reducing the decision-making process of reviewing refactoring changes.
 
