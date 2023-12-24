@@ -37,6 +37,8 @@ I am interested in the intersection of Software Engineering (SE) and Artificial 
 **I always seek self-motivated, hard-working undergrad and grad students to join my team**. If you are interested, please look on my Google Scholar to see if you are passionate about any of these topics, then contact me.
 
 ## News
+- December 2023: Our paper ["AntiCopyPaster 2.0: Whitebox just-in-time code duplicates extraction"] was accepted at ICSE!
+- December 2023: Our paper ["Behind the Intent of Extract Method Refactoring: A Systematic Literature Review"] was accepted at TSE!
 - October 2023: I joined the Editorial Board at JSS!
 - October 2023: Our paper ["Automating source code refactoring in the classroom"] was accepted at SIGCSE!
 - July 2023: Our paper ["On the impact of single and co-occurrent refactorings on quality attributes in Android applications"] was accepted at JSS!
