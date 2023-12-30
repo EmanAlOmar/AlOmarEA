@@ -1,12 +1,13 @@
 const allMembersContainer = document.querySelector("#allMembersContainer");
 
-const members = [{
-        classFilter: 'profs-postdocs',
-        photoPath: 'EmanAlOmar.png',
-        link: 'https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en',
-        name: 'Eman Abdullah AlOmar',
-        title: 'AAAAssistant Professor'
-    },
+const members = [
+<!--{
+         <!-- classFilter: 'profs-postdocs',,-->
+         <!-- photoPath: 'EmanAlOmar.png',,-->
+         <!-- link: 'https://scholar.google.com/citations?user=aZJysCwAAAAJ&hl=en', ,-->
+         <!-- name: 'Eman Abdullah AlOmar',,-->
+         <!-- title: 'AAAAssistant Professor'-->
+    <!--},-->
     {
         classFilter: 'masters',
         photoPath: 'HimanshuDagar.jpg',

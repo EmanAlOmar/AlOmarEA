@@ -13,6 +13,12 @@ classes: "wide"
 - International Workshop on Refactoring (IWoR), 2021. 
 
 ## Program Committee Member
+- International Conference on Software Engineering  (ICSE) - Research track, 2025.
+- International Conference on Automated Software Engineering (ASE) - Research track, 2024.
+- Innovation and Technology in Computer Science Education  (ITiCSE)
+- International Conference on AI Foundation Models and Software Engineeringn  (FORGE), 2024.
+- International Conference on Software Engineering  (ICSE) - Tools Demo track, 2024.
+- International Conference on Evaluation and Assessment in Software Engineering (EASE), 2024.
 - International Conference on Mining Software Repositories - MSR Award  (MSR), 2024.
 - Technical Symposium on Computer Science Education - Experience Reports and Tools track (SIGCSE), 2024.
 - International Conference on Program Comprehension (ICPC), 2024.
