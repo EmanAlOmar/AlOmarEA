@@ -37,6 +37,10 @@ I am interested in the intersection of Software Engineering (SE) and Artificial 
 **I always seek self-motivated, hard-working undergrad and grad students to join my team**. If you are interested, please look on my Google Scholar to see if you are passionate about any of these topics, then contact me.
 
 ## News
+- January 2024: Our paper ["How to refactor this code? An exploratory study on developer-ChatGPT refactoring conversations"] was accepted at MSR!
+- January 2024: Our paper ["How do software developers use ChatGPT? An exploratory study on GitHub pull requests"] was accepted at MSR!
+- January 2024: Our paper ["Automating source code refactoring in the classroom"] has been honored with the Best Paper Award at SIGCSE!
+- Happy New Year, 2024! 
 - December 2023: Our paper ["AntiCopyPaster 2.0: Whitebox just-in-time code duplicates extraction"] was accepted at ICSE!
 - December 2023: Our paper ["Behind the Intent of Extract Method Refactoring: A Systematic Literature Review"] was accepted at TSE!
 - October 2023: I joined the Editorial Board at JSS!
