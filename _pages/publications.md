@@ -6,7 +6,19 @@ title: "Publications"
 
 <!--## Pre-prints-->
 
+## 2024
+
+-  **AlOmar, E.A.**, A. Venkatakrishnan, M. W. Mkaouer,  C. Newman, and A. Ouni. **How to refactor this code? An exploratory study on developer-ChatGPT refactoring conversations**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2024).
+
+-  M. Chouchen, N. Bessghaier,  M. Begoug, A. Ouni, **AlOmar, E.A.**, and M. W. Mkaouer. **How do software developers use ChatGPT? An exploratory study on GitHub pull requests**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2024).
+
+
 ## 2023
+
+-  **E. A. AlOmar**, M. W. Mkaouer, and A. Ouni. **Behind the intent of extract method refactoring: A systematic literature review**. In *Transactions on Software Engineering*. ACM, 22 pages, 2023 (TSE).
+
+-  **E. A. AlOmar**, B. Knobloch, T. Kain, C. Kalish,  M. W. Mkaouer, and A. Ouni. **AntiCopyPaster 2.0: Whitebox just-in-time code duplicates
+extraction**. In *International Conference on Software Engineering*, 5 pages, (ICSE 2024).
 
 -  **E. A. AlOmar**, M. W. Mkaouer, and A. Ouni. **Automating source code refactoring in the classroom**. In *Technical Symposium on Computer Science Education*. ACM, 6 pages, 2023 (SIGCSE).
 
