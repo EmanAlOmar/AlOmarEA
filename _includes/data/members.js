@@ -115,13 +115,6 @@ const members = [
     },
      {
         classFilter: 'undergrad',
-        photoPath: 'BowenJiang.png',
-        link: 'https://www.linkedin.com/in/bowen-jiang-099791251/',
-        name: 'Bowen Jiang',
-        title: 'Undergraduate Student'
-    },
-     {
-        classFilter: 'undergrad',
         photoPath: 'JamesGrant.png',
         link: 'https://www.linkedin.com/in/james-grant-3720932a9/',
         name: 'James Grant',
@@ -132,6 +125,13 @@ const members = [
         photoPath: 'SaikarthikMummadisingu.png',
         link: 'https://www.linkedin.com/in/saikarthik-m/',
         name: 'Saikarthik Mummadisingu',
+        title: 'Undergraduate Student'
+    },
+       {
+        classFilter: 'undergrad',
+        photoPath: 'BowenJiang.png',
+        link: 'https://www.linkedin.com/in/bowen-jiang-099791251/',
+        name: 'Bowen Jiang',
         title: 'Undergraduate Student'
     },
  
