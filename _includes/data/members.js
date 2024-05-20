@@ -100,39 +100,39 @@ const members = [
         title: "Undergraduate Student"
     },
          {
-        classFilter: 'undergrad',
-        photoPath: 'JocelynMo.png',
-        link: '',
-        name: 'Jocelyn Mo',
-        title: 'Undergraduate Student'
+        classFilter: "undergrad",
+        photoPath: "JocelynMo.png",
+        link: "members.html",
+        name: "Jocelyn Mo",
+        title: "Undergraduate Student"
     },
      {
-        classFilter: 'undergrad',
-        photoPath: 'JamesGrant.png',
-        link: 'https://www.linkedin.com/in/james-grant-3720932a9/',
-        name: 'James Grant',
-        title: 'Undergraduate Student'
+        classFilter: "undergrad",
+        photoPath: "JamesGrant.png",
+        link: "https://www.linkedin.com/in/james-grant-3720932a9/",
+        name: "James Grant",
+        title: "Undergraduate Student"
     },
      {
-        classFilter: 'undergrad',
-        photoPath: 'SaikarthikMummadisingu.png',
-        link: 'https://www.linkedin.com/in/saikarthik-m/',
-        name: 'Saikarthik Mummadisingu',
-        title: 'Undergraduate Student'
+        classFilter: "undergrad",
+        photoPath: "SaikarthikMummadisingu.png",
+        link: "https://www.linkedin.com/in/saikarthik-m/",
+        name: "Saikarthik Mummadisingu",
+        title: "Undergraduate Student"
     },
        {
-        classFilter: 'undergrad',
-        photoPath: 'BowenJiang.png',
-        link: 'https://www.linkedin.com/in/bowen-jiang-099791251/',
-        name: 'Bowen Jiang',
-        title: 'Undergraduate Student'
+        classFilter: "undergrad",
+        photoPath: "BowenJiang.png",
+        link: "https://www.linkedin.com/in/bowen-jiang-099791251/",
+        name: "Bowen Jiang",
+        title: "Undergraduate Student"
     },
         {
-        classFilter: 'undergrad',
-        photoPath: 'DylanFaulhaber.png',
-        link: 'https://www.linkedin.com/in/dylan-faulhaber-ab0282283/',
-        name: 'Dylan Faulhaber',
-        title: 'Undergraduate Student'
+        classFilter: "undergrad",
+        photoPath: "DylanFaulhaber.png",
+        link: "https://www.linkedin.com/in/dylan-faulhaber-ab0282283/",
+        name: "Dylan Faulhaber",
+        title: "Undergraduate Student"
     },
  
 ];
