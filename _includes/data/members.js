@@ -106,13 +106,7 @@ const members = [
         name: 'Jocelyn Mo',
         title: 'Undergraduate Student'
     },
-         {
-        classFilter: 'undergrad',
-        photoPath: 'DylanFaulhaber.png',
-        link: 'https://www.linkedin.com/in/dylan-faulhaber-ab0282283/',
-        name: 'Dylan Faulhaber',
-        title: 'Undergraduate Student'
-    },
+ 
      {
         classFilter: 'undergrad',
         photoPath: 'JamesGrant.png',
@@ -132,6 +126,13 @@ const members = [
         photoPath: 'BowenJiang.png',
         link: 'https://www.linkedin.com/in/bowen-jiang-099791251/',
         name: 'Bowen Jiang',
+        title: 'Undergraduate Student'
+    },
+        {
+        classFilter: 'undergrad',
+        photoPath: 'DylanFaulhaber.png',
+        link: 'https://www.linkedin.com/in/dylan-faulhaber-ab0282283/',
+        name: 'Dylan Faulhaber',
         title: 'Undergraduate Student'
     },
  
