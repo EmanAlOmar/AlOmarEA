@@ -8,13 +8,6 @@ const members = [
         name: 'Himanshu Dagar',
         title: 'Master`s Student'
     },
-      {
-        classFilter: 'undergrad',
-        photoPath: 'JocelynMo.png',
-        link: '',
-        name: 'Jocelyn Mo',
-        title: 'Undergraduate Student'
-    },
     {
         classFilter: 'undergrad',
         photoPath: 'LaurenKibalo.jpg',
@@ -105,6 +98,41 @@ const members = [
         link: "www.linkedin.com/in/omar-elkhafif-3bbbb2274",
         name: "Omar Elkhafif",
         title: "Undergraduate Student"
+    },
+         {
+        classFilter: 'undergrad',
+        photoPath: 'JocelynMo.png',
+        link: '',
+        name: 'Jocelyn Mo',
+        title: 'Undergraduate Student'
+    },
+         {
+        classFilter: 'undergrad',
+        photoPath: 'BowenJiang.png',
+        link: '',
+        name: 'Bowen Jiang',
+        title: 'Undergraduate Student'
+    },
+         {
+        classFilter: 'undergrad',
+        photoPath: 'DylanFaulhaber.png',
+        link: '',
+        name: 'Dylan Faulhaber',
+        title: 'Undergraduate Student'
+    },
+     {
+        classFilter: 'undergrad',
+        photoPath: 'JamesGrant.png',
+        link: '',
+        name: 'James Grant',
+        title: 'Undergraduate Student'
+    },
+     {
+        classFilter: 'undergrad',
+        photoPath: 'SaikarthikMummadisingu.png',
+        link: '',
+        name: 'Saikarthik Mummadisingu',
+        title: 'Undergraduate Student'
     },
  
 ];
