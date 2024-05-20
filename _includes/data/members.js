@@ -108,16 +108,16 @@ const members = [
     },
          {
         classFilter: 'undergrad',
-        photoPath: 'BowenJiang.png',
-        link: '',
-        name: 'Bowen Jiang',
-        title: 'Undergraduate Student'
-    },
-         {
-        classFilter: 'undergrad',
         photoPath: 'DylanFaulhaber.png',
         link: '',
         name: 'Dylan Faulhaber',
+        title: 'Undergraduate Student'
+    },
+     {
+        classFilter: 'undergrad',
+        photoPath: 'BowenJiang.png',
+        link: '',
+        name: 'Bowen Jiang',
         title: 'Undergraduate Student'
     },
      {
