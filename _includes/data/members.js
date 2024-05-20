@@ -106,7 +106,6 @@ const members = [
         name: 'Jocelyn Mo',
         title: 'Undergraduate Student'
     },
- 
      {
         classFilter: 'undergrad',
         photoPath: 'JamesGrant.png',
