@@ -8,6 +8,13 @@ const members = [
         name: 'Himanshu Dagar',
         title: 'Master`s Student'
     },
+      {
+        classFilter: 'undergrad',
+        photoPath: 'JocelynMo.png',
+        link: '',
+        name: 'Jocelyn Mo',
+        title: 'Undergraduate Student'
+    },
     {
         classFilter: 'undergrad',
         photoPath: 'LaurenKibalo.jpg',
