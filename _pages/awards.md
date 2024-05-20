@@ -4,13 +4,26 @@ title: "Awards and Nominations"
 #classes: "wide"
 ---
 
+**Jess H. Davis Memorial Award for Research Excellence** <span style="float:right;"> *2024* </span> 
+    <br>Awarded by School of Systems and Enterprises at Stevens Institute of Technology - College level (SSE@Stevens). 
+
+**Best Paper Award** <span style="float:right;"> *2024* </span> 
+    <br>Awarded by Technical Symposium on Computer Science Education (SIGCSE). 
+
+**Best Mining Challenge Paper Award** <span style="float:right;"> *2024* </span>
+    <br>Awarded by International Conference on Mining Software Repositories (MSR). 
+ 
+**Best Reviewer Award** <span style="float:right;"> *2023* </span>
+    <br>Awarded by Journal of Systems and Software (JSS).  
+
+
 **Distinguished Doctoral Research Award** <span style="float:right;"> *2023* </span>
     <br>Awarded by International Conference on Mining Software Repositories (MSR). 
 
 **Best Reviewer Award** <span style="float:right;"> *2022* </span>
     <br>Awarded by Journal of Systems and Software (JSS).  
 
-**Best Mining Challenge Paper Award** <span style="float:right;"> *2021* </span>
+**Best Mining Challenge Paper Award** <span style="float:right;"> *2022* </span>
     <br>Awarded by International Conference on Mining Software Repositories (MSR).  
 
 **RIT Software Engineering Graduate Excellence Award** <span style="float:right;"> *2021* </span>
