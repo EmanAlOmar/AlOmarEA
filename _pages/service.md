@@ -5,8 +5,13 @@ classes: "wide"
 ---
 ## Technical Committee Co-chair
 
+- International Empirical Software Engineering and Measurement (ESEM) - New Ideas and Emerging Results track, 2025.
+- Conference on Systems Engineering Research (CSER), 2023. 
 - International Workshop on Refactoring (IWoR), 2022.
-- Conference on Systems Engineering Research (CSER), 2022. 
+
+## Editorial Board
+
+- Journal of Systems and Software (JSS), 2023.
 
 ## Publicity Chair
 
@@ -15,8 +20,11 @@ classes: "wide"
 ## Program Committee Member
 - International Conference on Software Engineering  (ICSE) - Research track, 2025.
 - International Conference on Automated Software Engineering (ASE) - Research track, 2024.
+- International Conference on Automated Software Engineering (ASE) - NIER track, 2024.
+- International Conference on Automated Software Engineering (ASE) - Artifacts track, 2024.
+- International Conference on Software Maintenance and Evolution (ICSME) - Registered Report track, 2024.
 - Innovation and Technology in Computer Science Education  (ITiCSE)
-- International Conference on AI Foundation Models and Software Engineeringn  (FORGE), 2024.
+- International Conference on AI Foundation Models and Software Engineering  (FORGE), 2024.
 - International Conference on Software Engineering  (ICSE) - Tools Demo track, 2024.
 - International Conference on Evaluation and Assessment in Software Engineering (EASE), 2024.
 - International Conference on Mining Software Repositories - MSR Award  (MSR), 2024.
@@ -47,11 +55,17 @@ classes: "wide"
 
 
 ## Journal Reviewer
+- Software Quality Journal (SQJ), 2024.
+- Journal of Systems and Software (JSS), 2024.
+- Automated Software Engineering (ASEj), 2024. 
+- Empirical Software Engineering (EMSE), 2024.
+- International Journal of Human–Computer Interaction (IJHC), 2024.
 - Scientific Reports (SC), 2023.
 - Automated Software Engineering (ASEj), 2023. 
 - Transactions on Software Engineering (TSE), 2023. 
 - Transactions on Software Engineering and Methodology (TOSEM), 2023. 
 - Journal of Software: Evolution and Process (JSEP), 2023. 
+- International Journal of Human–Computer Interaction (IJHC), 2023.
 - Journal of Systems and Software (JSS), 2023.
 - Expert Systems With Applications (ESWA), 2023.
 - Empirical Software Engineering (EMSE), 2023.
