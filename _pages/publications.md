@@ -8,6 +8,16 @@ title: "Publications"
 
 ## 2024
 
+- Peruma, A., **AlOmar, E. A.**, Aljedaani, W., Newman, C, Mkaouer, M. W.. **Insights from the field: Exploring students' perspectives on bad unit testing practices** 
+    In *International Conference on Innovation and Technology in Computer Science Education*, 7 pages, (ItiCSE 2024).
+
+- K. DePalma, I. Miminoshvili, C. Hensedler, K. Moss, **AlOmar, E. A.**. **Exploring ChatGPT’s code refactoring capabilities: An empirical study.** 
+    In *International Journal of Expert Systems With Applications*, 26 pages, (ESWA 2024).
+    <br>
+	 <i class="fab fa-github" aria-hidden="true"></i> [Dataset](https://sites.google.com/stevens.edu/chatgptdataanalysis/home){:target="_blank"}
+
+- M. Begoug, M. Chouchen, A. Ouni, **AlOmar, E.A.**, and M. W. Mkaouer. **Fine-grained Just-In-Time defect prediction at the block level**. In *International Conferences on Mining Software Repositories*, 12 pages, (MSR 2024).
+
 -  **AlOmar, E.A.**, A. Venkatakrishnan, M. W. Mkaouer,  C. Newman, and A. Ouni. **How to refactor this code? An exploratory study on developer-ChatGPT refactoring conversations**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2024).
 
 -  M. Chouchen, N. Bessghaier,  M. Begoug, A. Ouni, **AlOmar, E.A.**, and M. W. Mkaouer. **How do software developers use ChatGPT? An exploratory study on GitHub pull requests**. In *International Conferences on Mining Software Repositories*, 5 pages, (MSR 2024).
@@ -15,12 +25,12 @@ title: "Publications"
 
 ## 2023
 
--  **E. A. AlOmar**, M. W. Mkaouer, and A. Ouni. **Behind the intent of extract method refactoring: A systematic literature review**. In *Transactions on Software Engineering*. ACM, 22 pages, 2023 (TSE).
+-  **AlOmar, E. A.**, M. W. Mkaouer, and A. Ouni. **Behind the intent of extract method refactoring: A systematic literature review**. In *Transactions on Software Engineering*. ACM, 22 pages, 2023 (TSE).
 
--  **E. A. AlOmar**, B. Knobloch, T. Kain, C. Kalish,  M. W. Mkaouer, and A. Ouni. **AntiCopyPaster 2.0: Whitebox just-in-time code duplicates
+-  **AlOmar, E. A.**, B. Knobloch, T. Kain, C. Kalish,  M. W. Mkaouer, and A. Ouni. **AntiCopyPaster 2.0: Whitebox just-in-time code duplicates
 extraction**. In *International Conference on Software Engineering*, 5 pages, (ICSE 2024).
 
--  **E. A. AlOmar**, M. W. Mkaouer, and A. Ouni. **Automating source code refactoring in the classroom**. In *Technical Symposium on Computer Science Education*. ACM, 6 pages, 2023 (SIGCSE).
+-  **AlOmar, E. A.**, M. W. Mkaouer, and A. Ouni. **Automating source code refactoring in the classroom**. In *Technical Symposium on Computer Science Education*. ACM, 6 pages, 2023 (SIGCSE).
 
 - **AlOmar, E.A.**, AlOmar, S.A. and Mkaouer, M.W., 2023. **On the use of static analysis to engage students with software quality improvement: An experience with PMD**. In 
 *International Conference on Software Engineering*, 13 pages, (ICSE 2023).
