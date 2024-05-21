@@ -136,14 +136,14 @@ const members = [
     },
          {
         classFilter: "undergrad",
-        photoPath: "SarahKorczukowski.png",
+        photoPath: "SarahKorczukowski.jpeg",
         link: "https://www.linkedin.com/in/sarah-korczukowski-530b97206/",
         name: "Sarah Korczukowski",
         title: "Undergraduate Student"
     },
          {
         classFilter: "undergrad",
-        photoPath: "KensaySato.png",
+        photoPath: "KensaySato.jpg",
         link: "https://www.linkedin.com/in/kensay-sato/",
         name: "Kensay Sato",
         title: "Undergraduate Student"
