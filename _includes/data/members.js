@@ -134,6 +134,21 @@ const members = [
         name: "Dylan Faulhaber",
         title: "Undergraduate Student"
     },
+         {
+        classFilter: "undergrad",
+        photoPath: "SarahKorczukowski.png",
+        link: "https://www.linkedin.com/in/sarah-korczukowski-530b97206/",
+        name: "Sarah Korczukowski",
+        title: "Undergraduate Student"
+    },
+         {
+        classFilter: "undergrad",
+        photoPath: "KensaySato.png",
+        link: "https://www.linkedin.com/in/kensay-sato/",
+        name: "Kensay Sato",
+        title: "Undergraduate Student"
+    },
+
  
 ];
 
