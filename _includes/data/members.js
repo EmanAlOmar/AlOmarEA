@@ -176,6 +176,50 @@ const members = [
         name: "Jacky Lei",
         title: "Undergraduate Student"
     },
+         {
+        classFilter: "undergrad",
+        photoPath: "CatherineDeMario.jpg",
+        link: "https://www.linkedin.com/in/catherine-demario",
+        name: "Catherine DeMario",
+        title: "Undergraduate Student"
+    },
+        {
+        classFilter: "undergrad",
+        photoPath: "KarinaBerberian.JPG",
+        link: "https://www.linkedin.com/in/karina-berberian-3914a221a/",
+        name: "Karina Berberian",
+        title: "Undergraduate Student"
+    },
+      {
+        classFilter: "undergrad",
+        photoPath: "CindyTran.jpg",
+        link: "https://www.linkedin.com/in/cindy-tran-b1377a180/",
+        name: "Cindy Tran",
+        title: "Undergraduate Student"
+    },
+     {
+        classFilter: "undergrad",
+        photoPath: "BrandonKreiser.jpg",
+        link: "https://www.linkedin.com/in/brandon-kreiser/",
+        name: "Brandon Kreiser",
+        title: "Undergraduate Student"
+    },
+     {
+        classFilter: "undergrad",
+        photoPath: "RogerShagawat.jpeg",
+        link: "https://www.linkedin.com/in/roger-shagawat/",
+        name: "Roger Shagawat",
+        title: "Undergraduate Student"
+    },
+     {
+        classFilter: "undergrad",
+        photoPath: "SuneedhiLaddha.png",
+        link: " https://www.linkedin.com/in/suneedhi-laddha/",
+        name: "Suneedhi Laddha",
+        title: "Undergraduate Student"
+    },
+
+
 
  
 ];
