@@ -257,10 +257,53 @@ const members = [
     {
         classFilter: "undergrad",
         photoPath: "CavinGada.png",
-        link: "https://www.linkedin.com/in/cavingada/ https://github.com/cavingada",
+        link: "https://www.linkedin.com/in/cavingada/",
         name: "Cavin Gada",
         title: "Undergraduate Student"
     },
+       {
+        classFilter: "undergrad",
+        photoPath: "DanielCraig.jpg",
+        link: "https://www.linkedin.com/in/daniel-craig-395085210/",
+        name: "Daniel Craig",
+        title: "Undergraduate Student"
+    },
+       {
+        classFilter: "undergrad",
+        photoPath: "StevenTruong.jpg",
+        link: "https://www.linkedin.com/in/steven-truong-226576202",
+        name: "Steven Truong",
+        title: "Undergraduate Student"
+    },
+   {
+        classFilter: "undergrad",
+        photoPath: "AngeloNicosia.jpg",
+        link: "https://stevens.joinhandshake.com/stu/users/28007144",
+        name: "Angelo Nicosia",
+        title: "Undergraduate Student"
+    },
+   {
+        classFilter: "undergrad",
+        photoPath: "MatthewOyales.jpeg",
+        link: "https://www.linkedin.com/in/mattoyales",
+        name: "Matthew Oyales",
+        title: "Undergraduate Student"
+    },
+   {
+        classFilter: "undergrad",
+        photoPath: "ConnorPhillips.jpg",
+        link: "https://www.linkedin.com/in/connor-phillips-b29158265/",
+        name: "Connor Phillips",
+        title: "Undergraduate Student"
+    },
+   {
+        classFilter: "undergrad",
+        photoPath: "RudolphSedlin.jpg",
+        link: "https://www.linkedin.com/in/rudolph-sedlin",
+        name: "Rudolph Sedlin",
+        title: "Undergraduate Student"
+    },
+
 
  
 ];
