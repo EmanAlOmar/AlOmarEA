@@ -218,8 +218,49 @@ const members = [
         name: "Suneedhi Laddha",
         title: "Undergraduate Student"
     },
+        {
 
-
+        classFilter: "undergrad",
+        photoPath: "DimitriosHaralampopoulos.jpeg",
+        link: "https://www.linkedin.com/in/dimitrios-haralampopoulos-5ab928270?trk=contact-info",
+        name: "Dimitrios Haralampopoulos",
+        title: "Undergraduate Student"
+    },
+         {
+        classFilter: "undergrad",
+        photoPath: "MarkFalletta.jpg",
+        link: "https://www.linkedin.com/in/mark-falletta/",
+        name: "Mark Falletta",
+        title: "Undergraduate Student"
+    },
+        {
+        classFilter: "undergrad",
+        photoPath: "RobertFeliciano.jpg",
+        link: "https://www.linkedin.com/in/feliciano-robert/",
+        name: "Robert Feliciano",
+        title: "Undergraduate Student"
+    },
+        {
+        classFilter: "undergrad",
+        photoPath: "MatthewAngelakos.jpg",
+        link: "LinkedIn: www.linkedin.com/in/matthew-angelakos",
+        name: "Matthew Angelakos",
+        title: "Undergraduate Student"
+    },
+    {
+        classFilter: "undergrad",
+        photoPath: "JacobAshkenas.png",
+        link: "https://www.linkedin.com/in/jacob-ashkenas/",
+        name: "Jacob Ashkenas",
+        title: "Undergraduate Student"
+    },
+    {
+        classFilter: "undergrad",
+        photoPath: "CavinGada.png",
+        link: "https://www.linkedin.com/in/cavingada/ https://github.com/cavingada",
+        name: "Cavin Gada",
+        title: "Undergraduate Student"
+    },
 
  
 ];
