@@ -148,6 +148,34 @@ const members = [
         name: "Kensay Sato",
         title: "Undergraduate Student"
     },
+         {
+        classFilter: "undergrad",
+        photoPath: "NeelKulkarni.jpg",
+        link: "www.linkedin.com/in/neel-kulkarni-",
+        name: "Neel Kulkarni",
+        title: "Undergraduate Student"
+    },
+         {
+        classFilter: "undergrad",
+        photoPath: "AnnanyaJain.JPG",
+        link: "https://www.linkedin.com/in/jain-annanya/",
+        name: "Annanya Jain",
+        title: "Undergraduate Student"
+    },
+         {
+        classFilter: "undergrad",
+        photoPath: "DanicaChakroborty.jpg",
+        link: "https://www.linkedin.com/in/danica-chakroborty-3512a2215/",
+        name: "Danica Chakroborty",
+        title: "Undergraduate Student"
+    },
+         {
+        classFilter: "undergrad",
+        photoPath: "JackyLei.jpg",
+        link: "members.html",
+        name: "Jacky Lei",
+        title: "Undergraduate Student"
+    },
 
  
 ];
